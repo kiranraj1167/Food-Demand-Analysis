@@ -1,0 +1,1996 @@
+date,food_item,category,quantity_sold,unit_price,revenue,day_of_week,month,promotion,outlet
+2025-01-01,Veg Meals,Meals,34,120,4080,Wednesday,January,Yes,Outlet C
+2025-01-01,Idli,Breakfast,36,50,1800,Wednesday,January,No,Outlet B
+2025-01-01,Dosa,Breakfast,45,70,3150,Wednesday,January,Yes,Outlet A
+2025-01-01,Coffee,Beverages,42,30,1260,Wednesday,January,No,Outlet A
+2025-01-02,Dosa,Breakfast,41,70,2870,Thursday,January,No,Outlet A
+2025-01-02,Noodles,Fast Food,34,120,4080,Thursday,January,No,Outlet A
+2025-01-02,Coffee,Beverages,55,30,1650,Thursday,January,Yes,Outlet B
+2025-01-02,Idli,Breakfast,52,50,2600,Thursday,January,No,Outlet C
+2025-01-02,Veg Meals,Meals,28,120,3360,Thursday,January,No,Outlet B
+2025-01-02,Fried Rice,Rice,45,130,5850,Thursday,January,Yes,Outlet C
+2025-01-02,Chicken Biryani,Rice,47,180,8460,Thursday,January,No,Outlet C
+2025-01-03,Sandwich,Snacks,33,100,3300,Friday,January,No,Outlet A
+2025-01-03,Chicken Biryani,Rice,39,180,7020,Friday,January,No,Outlet B
+2025-01-03,Veg Meals,Meals,39,120,4680,Friday,January,Yes,Outlet C
+2025-01-03,Dosa,Breakfast,55,70,3850,Friday,January,No,Outlet C
+2025-01-03,Idli,Breakfast,60,50,3000,Friday,January,Yes,Outlet C
+2025-01-04,Veg Biryani,Rice,55,140,7700,Saturday,January,No,Outlet A
+2025-01-04,Noodles,Fast Food,27,120,3240,Saturday,January,No,Outlet B
+2025-01-04,Fried Rice,Rice,37,130,4810,Saturday,January,No,Outlet C
+2025-01-04,Idli,Breakfast,48,50,2400,Saturday,January,No,Outlet C
+2025-01-04,Dosa,Breakfast,63,70,4410,Saturday,January,No,Outlet C
+2025-01-05,Veg Biryani,Rice,49,140,6860,Sunday,January,No,Outlet B
+2025-01-05,Idli,Breakfast,66,50,3300,Sunday,January,No,Outlet C
+2025-01-05,Sandwich,Snacks,37,100,3700,Sunday,January,No,Outlet A
+2025-01-05,Dosa,Breakfast,55,70,3850,Sunday,January,Yes,Outlet C
+2025-01-05,Fresh Juice,Beverages,51,80,4080,Sunday,January,No,Outlet B
+2025-01-05,Chapati Set,Meals,39,90,3510,Sunday,January,No,Outlet B
+2025-01-05,Noodles,Fast Food,42,120,5040,Sunday,January,No,Outlet A
+2025-01-06,Fresh Juice,Beverages,67,80,5360,Monday,January,Yes,Outlet B
+2025-01-06,Tea,Beverages,76,20,1520,Monday,January,Yes,Outlet C
+2025-01-06,Idli,Breakfast,45,50,2250,Monday,January,No,Outlet A
+2025-01-06,Chapati Set,Meals,27,90,2430,Monday,January,No,Outlet C
+2025-01-07,Fresh Juice,Beverages,56,80,4480,Tuesday,January,No,Outlet C
+2025-01-07,Tea,Beverages,58,20,1160,Tuesday,January,No,Outlet B
+2025-01-07,Coffee,Beverages,84,30,2520,Tuesday,January,Yes,Outlet B
+2025-01-07,Dosa,Breakfast,39,70,2730,Tuesday,January,No,Outlet C
+2025-01-07,Veg Biryani,Rice,32,140,4480,Tuesday,January,No,Outlet B
+2025-01-07,Noodles,Fast Food,37,120,4440,Tuesday,January,No,Outlet C
+2025-01-08,Veg Biryani,Rice,47,140,6580,Wednesday,January,No,Outlet B
+2025-01-08,Fresh Juice,Beverages,67,80,5360,Wednesday,January,No,Outlet C
+2025-01-08,Noodles,Fast Food,33,120,3960,Wednesday,January,No,Outlet B
+2025-01-08,Tea,Beverages,59,20,1180,Wednesday,January,No,Outlet B
+2025-01-08,Sandwich,Snacks,27,100,2700,Wednesday,January,No,Outlet A
+2025-01-09,Chicken Biryani,Rice,30,180,5400,Thursday,January,No,Outlet C
+2025-01-09,Chapati Set,Meals,29,90,2610,Thursday,January,No,Outlet A
+2025-01-09,Veg Meals,Meals,27,120,3240,Thursday,January,No,Outlet A
+2025-01-09,Tea,Beverages,55,20,1100,Thursday,January,No,Outlet C
+2025-01-09,Dosa,Breakfast,68,70,4760,Thursday,January,Yes,Outlet C
+2025-01-10,Dosa,Breakfast,43,70,3010,Friday,January,No,Outlet B
+2025-01-10,Noodles,Fast Food,23,120,2760,Friday,January,No,Outlet C
+2025-01-10,Fried Rice,Rice,32,130,4160,Friday,January,No,Outlet B
+2025-01-10,Sandwich,Snacks,32,100,3200,Friday,January,No,Outlet A
+2025-01-10,Chicken Biryani,Rice,34,180,6120,Friday,January,No,Outlet B
+2025-01-10,Veg Meals,Meals,36,120,4320,Friday,January,Yes,Outlet B
+2025-01-10,Chapati Set,Meals,41,90,3690,Friday,January,No,Outlet B
+2025-01-11,Veg Meals,Meals,49,120,5880,Saturday,January,No,Outlet A
+2025-01-11,Fresh Juice,Beverages,81,80,6480,Saturday,January,Yes,Outlet A
+2025-01-11,Tea,Beverages,78,20,1560,Saturday,January,No,Outlet A
+2025-01-11,Sandwich,Snacks,41,100,4100,Saturday,January,No,Outlet B
+2025-01-12,Idli,Breakfast,41,50,2050,Sunday,January,No,Outlet C
+2025-01-12,Fried Rice,Rice,53,130,6890,Sunday,January,No,Outlet A
+2025-01-12,Tea,Beverages,80,20,1600,Sunday,January,Yes,Outlet C
+2025-01-12,Noodles,Fast Food,54,120,6480,Sunday,January,Yes,Outlet A
+2025-01-12,Veg Biryani,Rice,37,140,5180,Sunday,January,No,Outlet A
+2025-01-12,Chicken Biryani,Rice,41,180,7380,Sunday,January,No,Outlet A
+2025-01-12,Coffee,Beverages,67,30,2010,Sunday,January,No,Outlet C
+2025-01-13,Coffee,Beverages,48,30,1440,Monday,January,No,Outlet C
+2025-01-13,Chicken Biryani,Rice,35,180,6300,Monday,January,No,Outlet B
+2025-01-13,Fried Rice,Rice,54,130,7020,Monday,January,Yes,Outlet B
+2025-01-13,Tea,Beverages,62,20,1240,Monday,January,No,Outlet A
+2025-01-14,Noodles,Fast Food,32,120,3840,Tuesday,January,Yes,Outlet B
+2025-01-14,Coffee,Beverages,64,30,1920,Tuesday,January,Yes,Outlet A
+2025-01-14,Fresh Juice,Beverages,51,80,4080,Tuesday,January,No,Outlet A
+2025-01-14,Chicken Biryani,Rice,41,180,7380,Tuesday,January,No,Outlet B
+2025-01-15,Fresh Juice,Beverages,45,80,3600,Wednesday,January,No,Outlet A
+2025-01-15,Tea,Beverages,62,20,1240,Wednesday,January,No,Outlet A
+2025-01-15,Idli,Breakfast,47,50,2350,Wednesday,January,No,Outlet C
+2025-01-15,Chicken Biryani,Rice,44,180,7920,Wednesday,January,No,Outlet B
+2025-01-16,Idli,Breakfast,37,50,1850,Thursday,January,No,Outlet B
+2025-01-16,Veg Meals,Meals,41,120,4920,Thursday,January,Yes,Outlet C
+2025-01-16,Chicken Biryani,Rice,30,180,5400,Thursday,January,No,Outlet A
+2025-01-16,Fried Rice,Rice,44,130,5720,Thursday,January,No,Outlet A
+2025-01-16,Sandwich,Snacks,33,100,3300,Thursday,January,No,Outlet C
+2025-01-16,Fresh Juice,Beverages,53,80,4240,Thursday,January,No,Outlet A
+2025-01-16,Tea,Beverages,66,20,1320,Thursday,January,No,Outlet A
+2025-01-17,Dosa,Breakfast,53,70,3710,Friday,January,No,Outlet C
+2025-01-17,Fresh Juice,Beverages,67,80,5360,Friday,January,No,Outlet A
+2025-01-17,Sandwich,Snacks,35,100,3500,Friday,January,No,Outlet A
+2025-01-17,Chicken Biryani,Rice,30,180,5400,Friday,January,No,Outlet C
+2025-01-17,Chapati Set,Meals,39,90,3510,Friday,January,No,Outlet B
+2025-01-17,Fried Rice,Rice,47,130,6110,Friday,January,No,Outlet A
+2025-01-18,Veg Biryani,Rice,57,140,7980,Saturday,January,No,Outlet B
+2025-01-18,Chicken Biryani,Rice,54,180,9720,Saturday,January,No,Outlet A
+2025-01-18,Fried Rice,Rice,51,130,6630,Saturday,January,No,Outlet B
+2025-01-18,Veg Meals,Meals,47,120,5640,Saturday,January,No,Outlet B
+2025-01-18,Noodles,Fast Food,36,120,4320,Saturday,January,No,Outlet C
+2025-01-18,Fresh Juice,Beverages,66,80,5280,Saturday,January,No,Outlet A
+2025-01-19,Idli,Breakfast,70,50,3500,Sunday,January,Yes,Outlet B
+2025-01-19,Veg Biryani,Rice,43,140,6020,Sunday,January,No,Outlet C
+2025-01-19,Coffee,Beverages,52,30,1560,Sunday,January,No,Outlet C
+2025-01-19,Sandwich,Snacks,26,100,2600,Sunday,January,No,Outlet B
+2025-01-20,Tea,Beverages,67,20,1340,Monday,January,No,Outlet B
+2025-01-20,Sandwich,Snacks,30,100,3000,Monday,January,No,Outlet A
+2025-01-20,Dosa,Breakfast,41,70,2870,Monday,January,No,Outlet B
+2025-01-20,Chapati Set,Meals,31,90,2790,Monday,January,No,Outlet C
+2025-01-21,Tea,Beverages,46,20,920,Tuesday,January,No,Outlet C
+2025-01-21,Veg Biryani,Rice,41,140,5740,Tuesday,January,No,Outlet A
+2025-01-21,Dosa,Breakfast,38,70,2660,Tuesday,January,No,Outlet C
+2025-01-21,Fried Rice,Rice,36,130,4680,Tuesday,January,No,Outlet B
+2025-01-21,Sandwich,Snacks,24,100,2400,Tuesday,January,No,Outlet B
+2025-01-21,Chapati Set,Meals,42,90,3780,Tuesday,January,No,Outlet C
+2025-01-22,Fresh Juice,Beverages,84,80,6720,Wednesday,January,Yes,Outlet A
+2025-01-22,Chicken Biryani,Rice,34,180,6120,Wednesday,January,No,Outlet A
+2025-01-22,Idli,Breakfast,43,50,2150,Wednesday,January,Yes,Outlet B
+2025-01-22,Tea,Beverages,62,20,1240,Wednesday,January,No,Outlet B
+2025-01-22,Chapati Set,Meals,36,90,3240,Wednesday,January,No,Outlet A
+2025-01-23,Noodles,Fast Food,26,120,3120,Thursday,January,No,Outlet C
+2025-01-23,Fried Rice,Rice,31,130,4030,Thursday,January,No,Outlet A
+2025-01-23,Dosa,Breakfast,36,70,2520,Thursday,January,No,Outlet A
+2025-01-23,Veg Biryani,Rice,43,140,6020,Thursday,January,No,Outlet C
+2025-01-23,Veg Meals,Meals,42,120,5040,Thursday,January,No,Outlet B
+2025-01-23,Fresh Juice,Beverages,61,80,4880,Thursday,January,No,Outlet C
+2025-01-23,Sandwich,Snacks,34,100,3400,Thursday,January,No,Outlet B
+2025-01-24,Sandwich,Snacks,25,100,2500,Friday,January,No,Outlet C
+2025-01-24,Noodles,Fast Food,26,120,3120,Friday,January,No,Outlet B
+2025-01-24,Fresh Juice,Beverages,61,80,4880,Friday,January,Yes,Outlet B
+2025-01-24,Idli,Breakfast,54,50,2700,Friday,January,No,Outlet A
+2025-01-24,Dosa,Breakfast,49,70,3430,Friday,January,Yes,Outlet C
+2025-01-25,Sandwich,Snacks,32,100,3200,Saturday,January,No,Outlet A
+2025-01-25,Dosa,Breakfast,51,70,3570,Saturday,January,No,Outlet C
+2025-01-25,Chicken Biryani,Rice,36,180,6480,Saturday,January,No,Outlet C
+2025-01-25,Fried Rice,Rice,36,130,4680,Saturday,January,No,Outlet B
+2025-01-25,Tea,Beverages,61,20,1220,Saturday,January,No,Outlet B
+2025-01-26,Noodles,Fast Food,41,120,4920,Sunday,January,Yes,Outlet C
+2025-01-26,Dosa,Breakfast,59,70,4130,Sunday,January,No,Outlet B
+2025-01-26,Idli,Breakfast,66,50,3300,Sunday,January,No,Outlet C
+2025-01-26,Fried Rice,Rice,56,130,7280,Sunday,January,Yes,Outlet C
+2025-01-26,Sandwich,Snacks,26,100,2600,Sunday,January,No,Outlet B
+2025-01-27,Noodles,Fast Food,29,120,3480,Monday,January,No,Outlet B
+2025-01-27,Veg Biryani,Rice,38,140,5320,Monday,January,No,Outlet B
+2025-01-27,Veg Meals,Meals,27,120,3240,Monday,January,No,Outlet A
+2025-01-27,Idli,Breakfast,35,50,1750,Monday,January,No,Outlet B
+2025-01-27,Fried Rice,Rice,31,130,4030,Monday,January,No,Outlet C
+2025-01-28,Veg Meals,Meals,30,120,3600,Tuesday,January,No,Outlet B
+2025-01-28,Dosa,Breakfast,46,70,3220,Tuesday,January,No,Outlet A
+2025-01-28,Fresh Juice,Beverages,48,80,3840,Tuesday,January,No,Outlet B
+2025-01-28,Sandwich,Snacks,37,100,3700,Tuesday,January,Yes,Outlet C
+2025-01-29,Veg Biryani,Rice,42,140,5880,Wednesday,January,No,Outlet B
+2025-01-29,Idli,Breakfast,50,50,2500,Wednesday,January,No,Outlet A
+2025-01-29,Chicken Biryani,Rice,47,180,8460,Wednesday,January,No,Outlet A
+2025-01-29,Veg Meals,Meals,48,120,5760,Wednesday,January,Yes,Outlet C
+2025-01-30,Coffee,Beverages,51,30,1530,Thursday,January,No,Outlet C
+2025-01-30,Veg Meals,Meals,26,120,3120,Thursday,January,No,Outlet B
+2025-01-30,Chapati Set,Meals,27,90,2430,Thursday,January,No,Outlet B
+2025-01-30,Tea,Beverages,64,20,1280,Thursday,January,No,Outlet C
+2025-01-31,Fried Rice,Rice,47,130,6110,Friday,January,No,Outlet C
+2025-01-31,Veg Biryani,Rice,47,140,6580,Friday,January,No,Outlet A
+2025-01-31,Tea,Beverages,54,20,1080,Friday,January,No,Outlet B
+2025-01-31,Idli,Breakfast,49,50,2450,Friday,January,No,Outlet B
+2025-01-31,Noodles,Fast Food,44,120,5280,Friday,January,Yes,Outlet A
+2025-02-01,Dosa,Breakfast,55,70,3850,Saturday,February,No,Outlet C
+2025-02-01,Chapati Set,Meals,32,90,2880,Saturday,February,No,Outlet C
+2025-02-01,Idli,Breakfast,55,50,2750,Saturday,February,No,Outlet A
+2025-02-01,Fresh Juice,Beverages,70,80,5600,Saturday,February,No,Outlet B
+2025-02-01,Coffee,Beverages,49,30,1470,Saturday,February,No,Outlet B
+2025-02-01,Noodles,Fast Food,39,120,4680,Saturday,February,No,Outlet B
+2025-02-01,Tea,Beverages,61,20,1220,Saturday,February,No,Outlet C
+2025-02-02,Fried Rice,Rice,41,130,5330,Sunday,February,No,Outlet C
+2025-02-02,Tea,Beverages,53,20,1060,Sunday,February,No,Outlet C
+2025-02-02,Chapati Set,Meals,44,90,3960,Sunday,February,No,Outlet A
+2025-02-02,Coffee,Beverages,64,30,1920,Sunday,February,No,Outlet C
+2025-02-02,Noodles,Fast Food,40,120,4800,Sunday,February,No,Outlet C
+2025-02-02,Veg Biryani,Rice,38,140,5320,Sunday,February,No,Outlet A
+2025-02-03,Dosa,Breakfast,40,70,2800,Monday,February,No,Outlet A
+2025-02-03,Chapati Set,Meals,37,90,3330,Monday,February,No,Outlet A
+2025-02-03,Veg Biryani,Rice,45,140,6300,Monday,February,No,Outlet A
+2025-02-03,Idli,Breakfast,47,50,2350,Monday,February,No,Outlet B
+2025-02-03,Veg Meals,Meals,31,120,3720,Monday,February,No,Outlet A
+2025-02-03,Fresh Juice,Beverages,65,80,5200,Monday,February,No,Outlet A
+2025-02-04,Fried Rice,Rice,58,130,7540,Tuesday,February,Yes,Outlet B
+2025-02-04,Noodles,Fast Food,33,120,3960,Tuesday,February,Yes,Outlet C
+2025-02-04,Chicken Biryani,Rice,42,180,7560,Tuesday,February,No,Outlet C
+2025-02-04,Veg Meals,Meals,34,120,4080,Tuesday,February,No,Outlet B
+2025-02-05,Idli,Breakfast,64,50,3200,Wednesday,February,Yes,Outlet C
+2025-02-05,Coffee,Beverages,59,30,1770,Wednesday,February,No,Outlet A
+2025-02-05,Fried Rice,Rice,41,130,5330,Wednesday,February,No,Outlet A
+2025-02-05,Sandwich,Snacks,34,100,3400,Wednesday,February,Yes,Outlet C
+2025-02-05,Veg Meals,Meals,26,120,3120,Wednesday,February,No,Outlet B
+2025-02-05,Tea,Beverages,61,20,1220,Wednesday,February,No,Outlet B
+2025-02-05,Chapati Set,Meals,37,90,3330,Wednesday,February,Yes,Outlet B
+2025-02-06,Fried Rice,Rice,47,130,6110,Thursday,February,No,Outlet A
+2025-02-06,Chicken Biryani,Rice,57,180,10260,Thursday,February,Yes,Outlet C
+2025-02-06,Tea,Beverages,57,20,1140,Thursday,February,No,Outlet B
+2025-02-06,Dosa,Breakfast,44,70,3080,Thursday,February,No,Outlet B
+2025-02-06,Veg Biryani,Rice,49,140,6860,Thursday,February,No,Outlet C
+2025-02-07,Noodles,Fast Food,23,120,2760,Friday,February,No,Outlet A
+2025-02-07,Chicken Biryani,Rice,47,180,8460,Friday,February,No,Outlet C
+2025-02-07,Coffee,Beverages,42,30,1260,Friday,February,No,Outlet C
+2025-02-07,Veg Meals,Meals,35,120,4200,Friday,February,No,Outlet A
+2025-02-07,Fried Rice,Rice,43,130,5590,Friday,February,No,Outlet B
+2025-02-07,Chapati Set,Meals,35,90,3150,Friday,February,No,Outlet C
+2025-02-07,Veg Biryani,Rice,49,140,6860,Friday,February,No,Outlet B
+2025-02-08,Fried Rice,Rice,47,130,6110,Saturday,February,No,Outlet C
+2025-02-08,Chapati Set,Meals,46,90,4140,Saturday,February,No,Outlet C
+2025-02-08,Fresh Juice,Beverages,64,80,5120,Saturday,February,Yes,Outlet B
+2025-02-08,Chicken Biryani,Rice,58,180,10440,Saturday,February,No,Outlet B
+2025-02-08,Veg Biryani,Rice,55,140,7700,Saturday,February,No,Outlet A
+2025-02-08,Noodles,Fast Food,36,120,4320,Saturday,February,No,Outlet B
+2025-02-09,Dosa,Breakfast,60,70,4200,Sunday,February,No,Outlet A
+2025-02-09,Tea,Beverages,53,20,1060,Sunday,February,No,Outlet B
+2025-02-09,Chapati Set,Meals,44,90,3960,Sunday,February,No,Outlet A
+2025-02-09,Noodles,Fast Food,47,120,5640,Sunday,February,Yes,Outlet A
+2025-02-10,Idli,Breakfast,70,50,3500,Monday,February,Yes,Outlet A
+2025-02-10,Tea,Beverages,44,20,880,Monday,February,No,Outlet A
+2025-02-10,Veg Meals,Meals,38,120,4560,Monday,February,No,Outlet C
+2025-02-10,Fresh Juice,Beverages,53,80,4240,Monday,February,No,Outlet B
+2025-02-10,Fried Rice,Rice,35,130,4550,Monday,February,No,Outlet C
+2025-02-11,Fried Rice,Rice,36,130,4680,Tuesday,February,No,Outlet B
+2025-02-11,Dosa,Breakfast,51,70,3570,Tuesday,February,No,Outlet B
+2025-02-11,Coffee,Beverages,49,30,1470,Tuesday,February,No,Outlet B
+2025-02-11,Tea,Beverages,57,20,1140,Tuesday,February,No,Outlet C
+2025-02-11,Veg Biryani,Rice,33,140,4620,Tuesday,February,No,Outlet C
+2025-02-12,Chapati Set,Meals,42,90,3780,Wednesday,February,No,Outlet A
+2025-02-12,Sandwich,Snacks,24,100,2400,Wednesday,February,No,Outlet B
+2025-02-12,Tea,Beverages,77,20,1540,Wednesday,February,Yes,Outlet C
+2025-02-12,Coffee,Beverages,52,30,1560,Wednesday,February,No,Outlet C
+2025-02-12,Fried Rice,Rice,43,130,5590,Wednesday,February,No,Outlet A
+2025-02-12,Dosa,Breakfast,35,70,2450,Wednesday,February,No,Outlet C
+2025-02-12,Veg Biryani,Rice,37,140,5180,Wednesday,February,No,Outlet A
+2025-02-13,Chicken Biryani,Rice,31,180,5580,Thursday,February,No,Outlet B
+2025-02-13,Tea,Beverages,60,20,1200,Thursday,February,No,Outlet C
+2025-02-13,Noodles,Fast Food,34,120,4080,Thursday,February,Yes,Outlet C
+2025-02-13,Veg Meals,Meals,32,120,3840,Thursday,February,No,Outlet B
+2025-02-13,Veg Biryani,Rice,48,140,6720,Thursday,February,No,Outlet B
+2025-02-13,Dosa,Breakfast,35,70,2450,Thursday,February,No,Outlet A
+2025-02-13,Chapati Set,Meals,37,90,3330,Thursday,February,No,Outlet B
+2025-02-14,Sandwich,Snacks,31,100,3100,Friday,February,No,Outlet A
+2025-02-14,Chicken Biryani,Rice,57,180,10260,Friday,February,Yes,Outlet B
+2025-02-14,Fried Rice,Rice,39,130,5070,Friday,February,No,Outlet A
+2025-02-14,Fresh Juice,Beverages,57,80,4560,Friday,February,No,Outlet A
+2025-02-14,Tea,Beverages,54,20,1080,Friday,February,Yes,Outlet B
+2025-02-15,Noodles,Fast Food,35,120,4200,Saturday,February,No,Outlet C
+2025-02-15,Coffee,Beverages,93,30,2790,Saturday,February,Yes,Outlet B
+2025-02-15,Veg Biryani,Rice,39,140,5460,Saturday,February,No,Outlet B
+2025-02-15,Dosa,Breakfast,66,70,4620,Saturday,February,No,Outlet B
+2025-02-15,Sandwich,Snacks,32,100,3200,Saturday,February,No,Outlet B
+2025-02-16,Idli,Breakfast,55,50,2750,Sunday,February,No,Outlet C
+2025-02-16,Dosa,Breakfast,66,70,4620,Sunday,February,No,Outlet C
+2025-02-16,Fried Rice,Rice,36,130,4680,Sunday,February,No,Outlet C
+2025-02-16,Noodles,Fast Food,44,120,5280,Sunday,February,No,Outlet C
+2025-02-16,Chicken Biryani,Rice,55,180,9900,Sunday,February,No,Outlet B
+2025-02-16,Tea,Beverages,56,20,1120,Sunday,February,No,Outlet B
+2025-02-16,Fresh Juice,Beverages,55,80,4400,Sunday,February,No,Outlet B
+2025-02-17,Fresh Juice,Beverages,64,80,5120,Monday,February,Yes,Outlet A
+2025-02-17,Chicken Biryani,Rice,45,180,8100,Monday,February,Yes,Outlet C
+2025-02-17,Veg Meals,Meals,29,120,3480,Monday,February,No,Outlet C
+2025-02-17,Idli,Breakfast,42,50,2100,Monday,February,No,Outlet C
+2025-02-17,Noodles,Fast Food,35,120,4200,Monday,February,No,Outlet B
+2025-02-18,Idli,Breakfast,50,50,2500,Tuesday,February,No,Outlet B
+2025-02-18,Chapati Set,Meals,39,90,3510,Tuesday,February,No,Outlet B
+2025-02-18,Chicken Biryani,Rice,47,180,8460,Tuesday,February,Yes,Outlet B
+2025-02-18,Noodles,Fast Food,29,120,3480,Tuesday,February,No,Outlet C
+2025-02-18,Coffee,Beverages,48,30,1440,Tuesday,February,No,Outlet B
+2025-02-18,Tea,Beverages,67,20,1340,Tuesday,February,No,Outlet A
+2025-02-18,Fried Rice,Rice,39,130,5070,Tuesday,February,No,Outlet C
+2025-02-19,Coffee,Beverages,45,30,1350,Wednesday,February,No,Outlet A
+2025-02-19,Dosa,Breakfast,45,70,3150,Wednesday,February,No,Outlet A
+2025-02-19,Chicken Biryani,Rice,41,180,7380,Wednesday,February,No,Outlet B
+2025-02-19,Noodles,Fast Food,33,120,3960,Wednesday,February,No,Outlet C
+2025-02-19,Idli,Breakfast,46,50,2300,Wednesday,February,No,Outlet C
+2025-02-19,Chapati Set,Meals,28,90,2520,Wednesday,February,No,Outlet B
+2025-02-20,Noodles,Fast Food,35,120,4200,Thursday,February,Yes,Outlet B
+2025-02-20,Coffee,Beverages,48,30,1440,Thursday,February,No,Outlet B
+2025-02-20,Fried Rice,Rice,55,130,7150,Thursday,February,Yes,Outlet C
+2025-02-20,Idli,Breakfast,48,50,2400,Thursday,February,No,Outlet A
+2025-02-21,Idli,Breakfast,47,50,2350,Friday,February,No,Outlet A
+2025-02-21,Dosa,Breakfast,52,70,3640,Friday,February,Yes,Outlet A
+2025-02-21,Chicken Biryani,Rice,34,180,6120,Friday,February,No,Outlet C
+2025-02-21,Noodles,Fast Food,26,120,3120,Friday,February,No,Outlet A
+2025-02-21,Coffee,Beverages,45,30,1350,Friday,February,No,Outlet C
+2025-02-21,Chapati Set,Meals,50,90,4500,Friday,February,Yes,Outlet A
+2025-02-21,Tea,Beverages,56,20,1120,Friday,February,No,Outlet A
+2025-02-22,Fresh Juice,Beverages,74,80,5920,Saturday,February,No,Outlet C
+2025-02-22,Veg Meals,Meals,34,120,4080,Saturday,February,No,Outlet A
+2025-02-22,Veg Biryani,Rice,57,140,7980,Saturday,February,Yes,Outlet A
+2025-02-22,Sandwich,Snacks,33,100,3300,Saturday,February,No,Outlet B
+2025-02-23,Noodles,Fast Food,43,120,5160,Sunday,February,No,Outlet C
+2025-02-23,Tea,Beverages,64,20,1280,Sunday,February,No,Outlet A
+2025-02-23,Dosa,Breakfast,66,70,4620,Sunday,February,Yes,Outlet B
+2025-02-23,Veg Meals,Meals,32,120,3840,Sunday,February,No,Outlet C
+2025-02-24,Chicken Biryani,Rice,42,180,7560,Monday,February,No,Outlet C
+2025-02-24,Sandwich,Snacks,35,100,3500,Monday,February,No,Outlet C
+2025-02-24,Chapati Set,Meals,34,90,3060,Monday,February,No,Outlet B
+2025-02-24,Veg Biryani,Rice,55,140,7700,Monday,February,Yes,Outlet C
+2025-02-24,Fresh Juice,Beverages,62,80,4960,Monday,February,No,Outlet C
+2025-02-24,Noodles,Fast Food,29,120,3480,Monday,February,No,Outlet A
+2025-02-24,Tea,Beverages,64,20,1280,Monday,February,No,Outlet B
+2025-02-25,Sandwich,Snacks,23,100,2300,Tuesday,February,No,Outlet B
+2025-02-25,Chicken Biryani,Rice,58,180,10440,Tuesday,February,Yes,Outlet A
+2025-02-25,Chapati Set,Meals,38,90,3420,Tuesday,February,No,Outlet B
+2025-02-25,Fried Rice,Rice,41,130,5330,Tuesday,February,No,Outlet C
+2025-02-25,Coffee,Beverages,57,30,1710,Tuesday,February,No,Outlet C
+2025-02-25,Noodles,Fast Food,35,120,4200,Tuesday,February,Yes,Outlet C
+2025-02-25,Veg Biryani,Rice,38,140,5320,Tuesday,February,No,Outlet C
+2025-02-26,Idli,Breakfast,56,50,2800,Wednesday,February,Yes,Outlet A
+2025-02-26,Coffee,Beverages,47,30,1410,Wednesday,February,No,Outlet A
+2025-02-26,Sandwich,Snacks,29,100,2900,Wednesday,February,No,Outlet A
+2025-02-26,Chapati Set,Meals,35,90,3150,Wednesday,February,No,Outlet B
+2025-02-27,Coffee,Beverages,61,30,1830,Thursday,February,No,Outlet B
+2025-02-27,Fresh Juice,Beverages,51,80,4080,Thursday,February,No,Outlet A
+2025-02-27,Idli,Breakfast,46,50,2300,Thursday,February,No,Outlet B
+2025-02-27,Veg Meals,Meals,48,120,5760,Thursday,February,Yes,Outlet A
+2025-02-28,Sandwich,Snacks,26,100,2600,Friday,February,No,Outlet B
+2025-02-28,Tea,Beverages,50,20,1000,Friday,February,No,Outlet C
+2025-02-28,Dosa,Breakfast,54,70,3780,Friday,February,No,Outlet A
+2025-02-28,Fried Rice,Rice,53,130,6890,Friday,February,Yes,Outlet C
+2025-03-01,Idli,Breakfast,51,50,2550,Saturday,March,No,Outlet A
+2025-03-01,Noodles,Fast Food,29,120,3480,Saturday,March,No,Outlet B
+2025-03-01,Fried Rice,Rice,64,130,8320,Saturday,March,Yes,Outlet C
+2025-03-01,Fresh Juice,Beverages,79,80,6320,Saturday,March,No,Outlet A
+2025-03-02,Fried Rice,Rice,40,130,5200,Sunday,March,No,Outlet A
+2025-03-02,Coffee,Beverages,65,30,1950,Sunday,March,No,Outlet A
+2025-03-02,Veg Meals,Meals,56,120,6720,Sunday,March,Yes,Outlet A
+2025-03-02,Fresh Juice,Beverages,92,80,7360,Sunday,March,Yes,Outlet A
+2025-03-02,Dosa,Breakfast,62,70,4340,Sunday,March,No,Outlet B
+2025-03-03,Fried Rice,Rice,32,130,4160,Monday,March,No,Outlet B
+2025-03-03,Veg Meals,Meals,35,120,4200,Monday,March,No,Outlet C
+2025-03-03,Sandwich,Snacks,25,100,2500,Monday,March,No,Outlet B
+2025-03-03,Fresh Juice,Beverages,70,80,5600,Monday,March,Yes,Outlet C
+2025-03-04,Sandwich,Snacks,28,100,2800,Tuesday,March,No,Outlet B
+2025-03-04,Chapati Set,Meals,38,90,3420,Tuesday,March,No,Outlet A
+2025-03-04,Chicken Biryani,Rice,33,180,5940,Tuesday,March,No,Outlet C
+2025-03-04,Fried Rice,Rice,41,130,5330,Tuesday,March,No,Outlet A
+2025-03-04,Coffee,Beverages,57,30,1710,Tuesday,March,No,Outlet C
+2025-03-04,Noodles,Fast Food,32,120,3840,Tuesday,March,No,Outlet A
+2025-03-04,Dosa,Breakfast,37,70,2590,Tuesday,March,No,Outlet A
+2025-03-05,Coffee,Beverages,64,30,1920,Wednesday,March,No,Outlet C
+2025-03-05,Veg Biryani,Rice,48,140,6720,Wednesday,March,No,Outlet C
+2025-03-05,Chicken Biryani,Rice,50,180,9000,Wednesday,March,No,Outlet B
+2025-03-05,Fresh Juice,Beverages,66,80,5280,Wednesday,March,No,Outlet A
+2025-03-05,Noodles,Fast Food,30,120,3600,Wednesday,March,No,Outlet C
+2025-03-06,Idli,Breakfast,35,50,1750,Thursday,March,No,Outlet B
+2025-03-06,Coffee,Beverages,49,30,1470,Thursday,March,No,Outlet A
+2025-03-06,Veg Meals,Meals,34,120,4080,Thursday,March,No,Outlet B
+2025-03-06,Chapati Set,Meals,42,90,3780,Thursday,March,No,Outlet C
+2025-03-06,Chicken Biryani,Rice,39,180,7020,Thursday,March,No,Outlet C
+2025-03-06,Veg Biryani,Rice,36,140,5040,Thursday,March,No,Outlet B
+2025-03-07,Veg Meals,Meals,28,120,3360,Friday,March,No,Outlet A
+2025-03-07,Noodles,Fast Food,37,120,4440,Friday,March,No,Outlet C
+2025-03-07,Chicken Biryani,Rice,33,180,5940,Friday,March,No,Outlet B
+2025-03-07,Chapati Set,Meals,32,90,2880,Friday,March,No,Outlet B
+2025-03-07,Coffee,Beverages,48,30,1440,Friday,March,No,Outlet C
+2025-03-08,Chicken Biryani,Rice,55,180,9900,Saturday,March,No,Outlet C
+2025-03-08,Chapati Set,Meals,37,90,3330,Saturday,March,No,Outlet C
+2025-03-08,Sandwich,Snacks,40,100,4000,Saturday,March,No,Outlet B
+2025-03-08,Tea,Beverages,80,20,1600,Saturday,March,No,Outlet B
+2025-03-08,Fried Rice,Rice,65,130,8450,Saturday,March,Yes,Outlet A
+2025-03-08,Veg Biryani,Rice,44,140,6160,Saturday,March,No,Outlet B
+2025-03-09,Fresh Juice,Beverages,55,80,4400,Sunday,March,No,Outlet B
+2025-03-09,Sandwich,Snacks,28,100,2800,Sunday,March,No,Outlet B
+2025-03-09,Tea,Beverages,91,20,1820,Sunday,March,No,Outlet A
+2025-03-09,Chicken Biryani,Rice,69,180,12420,Sunday,March,Yes,Outlet A
+2025-03-09,Fried Rice,Rice,48,130,6240,Sunday,March,No,Outlet C
+2025-03-10,Fresh Juice,Beverages,51,80,4080,Monday,March,No,Outlet A
+2025-03-10,Chapati Set,Meals,39,90,3510,Monday,March,No,Outlet A
+2025-03-10,Coffee,Beverages,48,30,1440,Monday,March,No,Outlet B
+2025-03-10,Veg Biryani,Rice,35,140,4900,Monday,March,No,Outlet B
+2025-03-11,Sandwich,Snacks,32,100,3200,Tuesday,March,No,Outlet A
+2025-03-11,Noodles,Fast Food,37,120,4440,Tuesday,March,No,Outlet B
+2025-03-11,Dosa,Breakfast,40,70,2800,Tuesday,March,No,Outlet B
+2025-03-11,Tea,Beverages,59,20,1180,Tuesday,March,No,Outlet A
+2025-03-11,Coffee,Beverages,71,30,2130,Tuesday,March,No,Outlet A
+2025-03-11,Veg Biryani,Rice,31,140,4340,Tuesday,March,No,Outlet B
+2025-03-12,Tea,Beverages,55,20,1100,Wednesday,March,No,Outlet C
+2025-03-12,Chicken Biryani,Rice,48,180,8640,Wednesday,March,Yes,Outlet A
+2025-03-12,Sandwich,Snacks,33,100,3300,Wednesday,March,No,Outlet A
+2025-03-12,Fresh Juice,Beverages,58,80,4640,Wednesday,March,No,Outlet B
+2025-03-12,Idli,Breakfast,56,50,2800,Wednesday,March,No,Outlet B
+2025-03-12,Veg Meals,Meals,31,120,3720,Wednesday,March,No,Outlet A
+2025-03-13,Veg Biryani,Rice,45,140,6300,Thursday,March,No,Outlet B
+2025-03-13,Sandwich,Snacks,21,100,2100,Thursday,March,No,Outlet A
+2025-03-13,Veg Meals,Meals,36,120,4320,Thursday,March,Yes,Outlet A
+2025-03-13,Idli,Breakfast,50,50,2500,Thursday,March,No,Outlet C
+2025-03-13,Noodles,Fast Food,34,120,4080,Thursday,March,No,Outlet A
+2025-03-13,Chapati Set,Meals,26,90,2340,Thursday,March,No,Outlet B
+2025-03-14,Chicken Biryani,Rice,44,180,7920,Friday,March,No,Outlet B
+2025-03-14,Sandwich,Snacks,30,100,3000,Friday,March,No,Outlet A
+2025-03-14,Noodles,Fast Food,25,120,3000,Friday,March,No,Outlet C
+2025-03-14,Tea,Beverages,95,20,1900,Friday,March,Yes,Outlet A
+2025-03-14,Veg Meals,Meals,35,120,4200,Friday,March,No,Outlet C
+2025-03-14,Chapati Set,Meals,32,90,2880,Friday,March,No,Outlet B
+2025-03-14,Idli,Breakfast,53,50,2650,Friday,March,Yes,Outlet B
+2025-03-15,Sandwich,Snacks,35,100,3500,Saturday,March,No,Outlet C
+2025-03-15,Veg Meals,Meals,37,120,4440,Saturday,March,No,Outlet A
+2025-03-15,Chapati Set,Meals,37,90,3330,Saturday,March,No,Outlet C
+2025-03-15,Chicken Biryani,Rice,67,180,12060,Saturday,March,Yes,Outlet B
+2025-03-15,Coffee,Beverages,72,30,2160,Saturday,March,No,Outlet A
+2025-03-15,Tea,Beverages,57,20,1140,Saturday,March,No,Outlet B
+2025-03-16,Idli,Breakfast,48,50,2400,Sunday,March,No,Outlet B
+2025-03-16,Dosa,Breakfast,66,70,4620,Sunday,March,No,Outlet C
+2025-03-16,Veg Meals,Meals,31,120,3720,Sunday,March,No,Outlet C
+2025-03-16,Fresh Juice,Beverages,67,80,5360,Sunday,March,No,Outlet A
+2025-03-17,Idli,Breakfast,55,50,2750,Monday,March,No,Outlet B
+2025-03-17,Chicken Biryani,Rice,40,180,7200,Monday,March,No,Outlet B
+2025-03-17,Chapati Set,Meals,39,90,3510,Monday,March,No,Outlet B
+2025-03-17,Fried Rice,Rice,45,130,5850,Monday,March,No,Outlet A
+2025-03-17,Tea,Beverages,77,20,1540,Monday,March,No,Outlet A
+2025-03-17,Coffee,Beverages,56,30,1680,Monday,March,No,Outlet A
+2025-03-18,Fresh Juice,Beverages,57,80,4560,Tuesday,March,No,Outlet A
+2025-03-18,Idli,Breakfast,54,50,2700,Tuesday,March,No,Outlet C
+2025-03-18,Sandwich,Snacks,25,100,2500,Tuesday,March,No,Outlet A
+2025-03-18,Noodles,Fast Food,40,120,4800,Tuesday,March,Yes,Outlet B
+2025-03-18,Fried Rice,Rice,45,130,5850,Tuesday,March,No,Outlet A
+2025-03-18,Chicken Biryani,Rice,33,180,5940,Tuesday,March,No,Outlet C
+2025-03-19,Veg Meals,Meals,26,120,3120,Wednesday,March,No,Outlet A
+2025-03-19,Veg Biryani,Rice,49,140,6860,Wednesday,March,No,Outlet B
+2025-03-19,Chicken Biryani,Rice,32,180,5760,Wednesday,March,No,Outlet A
+2025-03-19,Dosa,Breakfast,43,70,3010,Wednesday,March,No,Outlet C
+2025-03-19,Chapati Set,Meals,42,90,3780,Wednesday,March,No,Outlet A
+2025-03-19,Fresh Juice,Beverages,62,80,4960,Wednesday,March,No,Outlet B
+2025-03-19,Tea,Beverages,50,20,1000,Wednesday,March,No,Outlet B
+2025-03-20,Dosa,Breakfast,44,70,3080,Thursday,March,No,Outlet C
+2025-03-20,Coffee,Beverages,49,30,1470,Thursday,March,No,Outlet C
+2025-03-20,Idli,Breakfast,56,50,2800,Thursday,March,No,Outlet C
+2025-03-20,Noodles,Fast Food,23,120,2760,Thursday,March,No,Outlet C
+2025-03-20,Sandwich,Snacks,25,100,2500,Thursday,March,No,Outlet A
+2025-03-20,Veg Meals,Meals,41,120,4920,Thursday,March,No,Outlet C
+2025-03-20,Chicken Biryani,Rice,47,180,8460,Thursday,March,Yes,Outlet A
+2025-03-21,Dosa,Breakfast,58,70,4060,Friday,March,Yes,Outlet B
+2025-03-21,Veg Biryani,Rice,50,140,7000,Friday,March,No,Outlet A
+2025-03-21,Sandwich,Snacks,22,100,2200,Friday,March,No,Outlet B
+2025-03-21,Noodles,Fast Food,33,120,3960,Friday,March,No,Outlet B
+2025-03-22,Fried Rice,Rice,51,130,6630,Saturday,March,No,Outlet B
+2025-03-22,Coffee,Beverages,106,30,3180,Saturday,March,Yes,Outlet C
+2025-03-22,Chicken Biryani,Rice,40,180,7200,Saturday,March,No,Outlet A
+2025-03-22,Veg Biryani,Rice,57,140,7980,Saturday,March,No,Outlet A
+2025-03-22,Chapati Set,Meals,40,90,3600,Saturday,March,No,Outlet B
+2025-03-22,Noodles,Fast Food,40,120,4800,Saturday,March,Yes,Outlet C
+2025-03-22,Veg Meals,Meals,49,120,5880,Saturday,March,No,Outlet C
+2025-03-23,Chicken Biryani,Rice,50,180,9000,Sunday,March,No,Outlet A
+2025-03-23,Idli,Breakfast,44,50,2200,Sunday,March,No,Outlet C
+2025-03-23,Dosa,Breakfast,72,70,5040,Sunday,March,Yes,Outlet C
+2025-03-23,Tea,Beverages,67,20,1340,Sunday,March,No,Outlet C
+2025-03-23,Fresh Juice,Beverages,107,80,8560,Sunday,March,Yes,Outlet A
+2025-03-23,Sandwich,Snacks,44,100,4400,Sunday,March,Yes,Outlet C
+2025-03-24,Fresh Juice,Beverages,63,80,5040,Monday,March,No,Outlet C
+2025-03-24,Dosa,Breakfast,45,70,3150,Monday,March,No,Outlet C
+2025-03-24,Coffee,Beverages,60,30,1800,Monday,March,No,Outlet C
+2025-03-24,Fried Rice,Rice,48,130,6240,Monday,March,Yes,Outlet B
+2025-03-24,Veg Meals,Meals,31,120,3720,Monday,March,No,Outlet A
+2025-03-24,Sandwich,Snacks,31,100,3100,Monday,March,No,Outlet C
+2025-03-25,Fried Rice,Rice,32,130,4160,Tuesday,March,No,Outlet B
+2025-03-25,Veg Biryani,Rice,32,140,4480,Tuesday,March,No,Outlet B
+2025-03-25,Chapati Set,Meals,40,90,3600,Tuesday,March,No,Outlet B
+2025-03-25,Tea,Beverages,73,20,1460,Tuesday,March,No,Outlet A
+2025-03-25,Chicken Biryani,Rice,49,180,8820,Tuesday,March,No,Outlet C
+2025-03-25,Fresh Juice,Beverages,70,80,5600,Tuesday,March,No,Outlet B
+2025-03-26,Noodles,Fast Food,26,120,3120,Wednesday,March,No,Outlet C
+2025-03-26,Idli,Breakfast,35,50,1750,Wednesday,March,No,Outlet B
+2025-03-26,Sandwich,Snacks,33,100,3300,Wednesday,March,No,Outlet C
+2025-03-26,Veg Meals,Meals,35,120,4200,Wednesday,March,No,Outlet A
+2025-03-26,Chicken Biryani,Rice,48,180,8640,Wednesday,March,No,Outlet C
+2025-03-26,Dosa,Breakfast,43,70,3010,Wednesday,March,No,Outlet A
+2025-03-26,Fresh Juice,Beverages,64,80,5120,Wednesday,March,No,Outlet A
+2025-03-27,Tea,Beverages,72,20,1440,Thursday,March,No,Outlet C
+2025-03-27,Idli,Breakfast,36,50,1800,Thursday,March,No,Outlet A
+2025-03-27,Chicken Biryani,Rice,46,180,8280,Thursday,March,No,Outlet B
+2025-03-27,Fried Rice,Rice,37,130,4810,Thursday,March,No,Outlet A
+2025-03-27,Noodles,Fast Food,30,120,3600,Thursday,March,No,Outlet C
+2025-03-27,Sandwich,Snacks,27,100,2700,Thursday,March,Yes,Outlet C
+2025-03-28,Noodles,Fast Food,27,120,3240,Friday,March,No,Outlet B
+2025-03-28,Tea,Beverages,69,20,1380,Friday,March,No,Outlet B
+2025-03-28,Sandwich,Snacks,28,100,2800,Friday,March,No,Outlet C
+2025-03-28,Veg Biryani,Rice,44,140,6160,Friday,March,No,Outlet B
+2025-03-28,Fresh Juice,Beverages,47,80,3760,Friday,March,No,Outlet B
+2025-03-28,Coffee,Beverages,76,30,2280,Friday,March,No,Outlet C
+2025-03-29,Sandwich,Snacks,38,100,3800,Saturday,March,No,Outlet C
+2025-03-29,Fresh Juice,Beverages,56,80,4480,Saturday,March,No,Outlet B
+2025-03-29,Veg Meals,Meals,53,120,6360,Saturday,March,Yes,Outlet C
+2025-03-29,Noodles,Fast Food,33,120,3960,Saturday,March,No,Outlet C
+2025-03-29,Idli,Breakfast,55,50,2750,Saturday,March,No,Outlet C
+2025-03-29,Chapati Set,Meals,38,90,3420,Saturday,March,Yes,Outlet B
+2025-03-30,Veg Biryani,Rice,52,140,7280,Sunday,March,No,Outlet C
+2025-03-30,Fried Rice,Rice,43,130,5590,Sunday,March,No,Outlet C
+2025-03-30,Dosa,Breakfast,50,70,3500,Sunday,March,No,Outlet A
+2025-03-30,Fresh Juice,Beverages,74,80,5920,Sunday,March,No,Outlet C
+2025-03-30,Noodles,Fast Food,40,120,4800,Sunday,March,No,Outlet C
+2025-03-30,Tea,Beverages,84,20,1680,Sunday,March,No,Outlet B
+2025-03-30,Chapati Set,Meals,34,90,3060,Sunday,March,No,Outlet A
+2025-03-31,Tea,Beverages,68,20,1360,Monday,March,No,Outlet B
+2025-03-31,Idli,Breakfast,46,50,2300,Monday,March,No,Outlet C
+2025-03-31,Dosa,Breakfast,36,70,2520,Monday,March,No,Outlet C
+2025-03-31,Fresh Juice,Beverages,74,80,5920,Monday,March,No,Outlet B
+2025-03-31,Sandwich,Snacks,34,100,3400,Monday,March,No,Outlet A
+2025-03-31,Chapati Set,Meals,30,90,2700,Monday,March,No,Outlet C
+2025-04-01,Chapati Set,Meals,40,90,3600,Tuesday,April,No,Outlet B
+2025-04-01,Noodles,Fast Food,33,120,3960,Tuesday,April,No,Outlet A
+2025-04-01,Idli,Breakfast,63,50,3150,Tuesday,April,Yes,Outlet A
+2025-04-01,Fresh Juice,Beverages,67,80,5360,Tuesday,April,No,Outlet C
+2025-04-02,Fresh Juice,Beverages,61,80,4880,Wednesday,April,No,Outlet C
+2025-04-02,Dosa,Breakfast,34,70,2380,Wednesday,April,No,Outlet C
+2025-04-02,Veg Meals,Meals,28,120,3360,Wednesday,April,No,Outlet C
+2025-04-02,Chicken Biryani,Rice,48,180,8640,Wednesday,April,No,Outlet B
+2025-04-02,Fried Rice,Rice,45,130,5850,Wednesday,April,No,Outlet B
+2025-04-03,Idli,Breakfast,53,50,2650,Thursday,April,No,Outlet A
+2025-04-03,Fresh Juice,Beverages,52,80,4160,Thursday,April,No,Outlet A
+2025-04-03,Veg Meals,Meals,26,120,3120,Thursday,April,No,Outlet B
+2025-04-03,Chicken Biryani,Rice,34,180,6120,Thursday,April,No,Outlet C
+2025-04-03,Dosa,Breakfast,55,70,3850,Thursday,April,No,Outlet A
+2025-04-03,Sandwich,Snacks,36,100,3600,Thursday,April,Yes,Outlet A
+2025-04-04,Idli,Breakfast,44,50,2200,Friday,April,No,Outlet A
+2025-04-04,Noodles,Fast Food,27,120,3240,Friday,April,No,Outlet C
+2025-04-04,Tea,Beverages,54,20,1080,Friday,April,No,Outlet A
+2025-04-04,Coffee,Beverages,71,30,2130,Friday,April,Yes,Outlet B
+2025-04-04,Fresh Juice,Beverages,70,80,5600,Friday,April,No,Outlet A
+2025-04-04,Chicken Biryani,Rice,43,180,7740,Friday,April,No,Outlet B
+2025-04-05,Tea,Beverages,89,20,1780,Saturday,April,No,Outlet A
+2025-04-05,Chapati Set,Meals,35,90,3150,Saturday,April,No,Outlet B
+2025-04-05,Chicken Biryani,Rice,43,180,7740,Saturday,April,No,Outlet C
+2025-04-05,Fried Rice,Rice,42,130,5460,Saturday,April,No,Outlet B
+2025-04-05,Coffee,Beverages,57,30,1710,Saturday,April,No,Outlet A
+2025-04-05,Noodles,Fast Food,29,120,3480,Saturday,April,No,Outlet C
+2025-04-05,Sandwich,Snacks,40,100,4000,Saturday,April,No,Outlet C
+2025-04-06,Sandwich,Snacks,33,100,3300,Sunday,April,No,Outlet B
+2025-04-06,Chicken Biryani,Rice,50,180,9000,Sunday,April,No,Outlet B
+2025-04-06,Idli,Breakfast,64,50,3200,Sunday,April,No,Outlet C
+2025-04-06,Chapati Set,Meals,47,90,4230,Sunday,April,No,Outlet A
+2025-04-06,Dosa,Breakfast,56,70,3920,Sunday,April,No,Outlet A
+2025-04-06,Fresh Juice,Beverages,74,80,5920,Sunday,April,No,Outlet B
+2025-04-07,Coffee,Beverages,52,30,1560,Monday,April,No,Outlet C
+2025-04-07,Chicken Biryani,Rice,46,180,8280,Monday,April,Yes,Outlet C
+2025-04-07,Veg Meals,Meals,37,120,4440,Monday,April,No,Outlet C
+2025-04-07,Tea,Beverages,49,20,980,Monday,April,No,Outlet C
+2025-04-08,Veg Meals,Meals,42,120,5040,Tuesday,April,Yes,Outlet B
+2025-04-08,Noodles,Fast Food,28,120,3360,Tuesday,April,No,Outlet A
+2025-04-08,Veg Biryani,Rice,42,140,5880,Tuesday,April,No,Outlet A
+2025-04-08,Tea,Beverages,68,20,1360,Tuesday,April,No,Outlet C
+2025-04-08,Fried Rice,Rice,49,130,6370,Tuesday,April,No,Outlet A
+2025-04-08,Dosa,Breakfast,44,70,3080,Tuesday,April,No,Outlet B
+2025-04-08,Idli,Breakfast,51,50,2550,Tuesday,April,No,Outlet C
+2025-04-09,Chapati Set,Meals,40,90,3600,Wednesday,April,No,Outlet A
+2025-04-09,Fried Rice,Rice,37,130,4810,Wednesday,April,No,Outlet A
+2025-04-09,Noodles,Fast Food,28,120,3360,Wednesday,April,No,Outlet A
+2025-04-09,Fresh Juice,Beverages,53,80,4240,Wednesday,April,No,Outlet A
+2025-04-09,Tea,Beverages,76,20,1520,Wednesday,April,No,Outlet B
+2025-04-09,Veg Meals,Meals,35,120,4200,Wednesday,April,No,Outlet C
+2025-04-09,Sandwich,Snacks,24,100,2400,Wednesday,April,No,Outlet B
+2025-04-10,Veg Biryani,Rice,42,140,5880,Thursday,April,No,Outlet A
+2025-04-10,Idli,Breakfast,35,50,1750,Thursday,April,No,Outlet C
+2025-04-10,Dosa,Breakfast,59,70,4130,Thursday,April,Yes,Outlet C
+2025-04-10,Chicken Biryani,Rice,35,180,6300,Thursday,April,No,Outlet A
+2025-04-10,Veg Meals,Meals,29,120,3480,Thursday,April,No,Outlet A
+2025-04-10,Fried Rice,Rice,46,130,5980,Thursday,April,No,Outlet A
+2025-04-11,Dosa,Breakfast,56,70,3920,Friday,April,No,Outlet C
+2025-04-11,Coffee,Beverages,55,30,1650,Friday,April,No,Outlet A
+2025-04-11,Chapati Set,Meals,36,90,3240,Friday,April,No,Outlet C
+2025-04-11,Fresh Juice,Beverages,65,80,5200,Friday,April,No,Outlet B
+2025-04-11,Sandwich,Snacks,22,100,2200,Friday,April,No,Outlet B
+2025-04-11,Veg Biryani,Rice,43,140,6020,Friday,April,No,Outlet C
+2025-04-12,Sandwich,Snacks,34,100,3400,Saturday,April,No,Outlet A
+2025-04-12,Fried Rice,Rice,42,130,5460,Saturday,April,No,Outlet C
+2025-04-12,Fresh Juice,Beverages,89,80,7120,Saturday,April,Yes,Outlet A
+2025-04-12,Veg Biryani,Rice,58,140,8120,Saturday,April,No,Outlet C
+2025-04-12,Idli,Breakfast,50,50,2500,Saturday,April,No,Outlet B
+2025-04-12,Dosa,Breakfast,57,70,3990,Saturday,April,No,Outlet B
+2025-04-13,Chicken Biryani,Rice,50,180,9000,Sunday,April,No,Outlet A
+2025-04-13,Tea,Beverages,82,20,1640,Sunday,April,No,Outlet C
+2025-04-13,Dosa,Breakfast,46,70,3220,Sunday,April,No,Outlet A
+2025-04-13,Veg Meals,Meals,37,120,4440,Sunday,April,No,Outlet A
+2025-04-13,Idli,Breakfast,45,50,2250,Sunday,April,No,Outlet C
+2025-04-13,Coffee,Beverages,114,30,3420,Sunday,April,Yes,Outlet B
+2025-04-14,Sandwich,Snacks,32,100,3200,Monday,April,No,Outlet B
+2025-04-14,Coffee,Beverages,66,30,1980,Monday,April,No,Outlet B
+2025-04-14,Dosa,Breakfast,45,70,3150,Monday,April,No,Outlet B
+2025-04-14,Fried Rice,Rice,46,130,5980,Monday,April,No,Outlet C
+2025-04-14,Fresh Juice,Beverages,72,80,5760,Monday,April,No,Outlet A
+2025-04-15,Chapati Set,Meals,41,90,3690,Tuesday,April,No,Outlet C
+2025-04-15,Fried Rice,Rice,36,130,4680,Tuesday,April,No,Outlet A
+2025-04-15,Veg Meals,Meals,32,120,3840,Tuesday,April,No,Outlet A
+2025-04-15,Dosa,Breakfast,48,70,3360,Tuesday,April,No,Outlet C
+2025-04-15,Veg Biryani,Rice,45,140,6300,Tuesday,April,No,Outlet B
+2025-04-15,Coffee,Beverages,66,30,1980,Tuesday,April,No,Outlet B
+2025-04-16,Veg Biryani,Rice,49,140,6860,Wednesday,April,No,Outlet C
+2025-04-16,Chapati Set,Meals,50,90,4500,Wednesday,April,Yes,Outlet C
+2025-04-16,Sandwich,Snacks,26,100,2600,Wednesday,April,Yes,Outlet A
+2025-04-16,Coffee,Beverages,53,30,1590,Wednesday,April,No,Outlet C
+2025-04-16,Noodles,Fast Food,32,120,3840,Wednesday,April,Yes,Outlet B
+2025-04-16,Chicken Biryani,Rice,42,180,7560,Wednesday,April,No,Outlet C
+2025-04-16,Idli,Breakfast,54,50,2700,Wednesday,April,No,Outlet C
+2025-04-17,Veg Meals,Meals,30,120,3600,Thursday,April,No,Outlet B
+2025-04-17,Sandwich,Snacks,40,100,4000,Thursday,April,Yes,Outlet C
+2025-04-17,Tea,Beverages,75,20,1500,Thursday,April,No,Outlet A
+2025-04-17,Coffee,Beverages,61,30,1830,Thursday,April,Yes,Outlet A
+2025-04-17,Fried Rice,Rice,42,130,5460,Thursday,April,No,Outlet B
+2025-04-17,Fresh Juice,Beverages,54,80,4320,Thursday,April,No,Outlet B
+2025-04-17,Noodles,Fast Food,46,120,5520,Thursday,April,Yes,Outlet B
+2025-04-18,Sandwich,Snacks,33,100,3300,Friday,April,Yes,Outlet C
+2025-04-18,Dosa,Breakfast,48,70,3360,Friday,April,No,Outlet C
+2025-04-18,Idli,Breakfast,56,50,2800,Friday,April,Yes,Outlet B
+2025-04-18,Chicken Biryani,Rice,37,180,6660,Friday,April,No,Outlet A
+2025-04-18,Veg Meals,Meals,41,120,4920,Friday,April,No,Outlet A
+2025-04-19,Sandwich,Snacks,36,100,3600,Saturday,April,No,Outlet B
+2025-04-19,Coffee,Beverages,75,30,2250,Saturday,April,No,Outlet A
+2025-04-19,Noodles,Fast Food,52,120,6240,Saturday,April,Yes,Outlet A
+2025-04-19,Idli,Breakfast,55,50,2750,Saturday,April,No,Outlet C
+2025-04-19,Veg Meals,Meals,49,120,5880,Saturday,April,No,Outlet B
+2025-04-20,Coffee,Beverages,81,30,2430,Sunday,April,No,Outlet C
+2025-04-20,Dosa,Breakfast,53,70,3710,Sunday,April,No,Outlet B
+2025-04-20,Sandwich,Snacks,40,100,4000,Sunday,April,Yes,Outlet A
+2025-04-20,Fried Rice,Rice,54,130,7020,Sunday,April,No,Outlet C
+2025-04-20,Chapati Set,Meals,46,90,4140,Sunday,April,No,Outlet A
+2025-04-21,Noodles,Fast Food,31,120,3720,Monday,April,No,Outlet B
+2025-04-21,Sandwich,Snacks,37,100,3700,Monday,April,Yes,Outlet A
+2025-04-21,Dosa,Breakfast,36,70,2520,Monday,April,No,Outlet A
+2025-04-21,Chapati Set,Meals,39,90,3510,Monday,April,No,Outlet A
+2025-04-21,Fried Rice,Rice,36,130,4680,Monday,April,No,Outlet A
+2025-04-21,Coffee,Beverages,94,30,2820,Monday,April,Yes,Outlet B
+2025-04-22,Idli,Breakfast,46,50,2300,Tuesday,April,No,Outlet B
+2025-04-22,Chicken Biryani,Rice,40,180,7200,Tuesday,April,Yes,Outlet C
+2025-04-22,Veg Biryani,Rice,52,140,7280,Tuesday,April,Yes,Outlet B
+2025-04-22,Fresh Juice,Beverages,47,80,3760,Tuesday,April,No,Outlet B
+2025-04-22,Coffee,Beverages,49,30,1470,Tuesday,April,No,Outlet C
+2025-04-22,Dosa,Breakfast,56,70,3920,Tuesday,April,No,Outlet C
+2025-04-23,Fresh Juice,Beverages,61,80,4880,Wednesday,April,No,Outlet A
+2025-04-23,Fried Rice,Rice,44,130,5720,Wednesday,April,Yes,Outlet B
+2025-04-23,Veg Biryani,Rice,32,140,4480,Wednesday,April,No,Outlet B
+2025-04-23,Coffee,Beverages,68,30,2040,Wednesday,April,No,Outlet B
+2025-04-23,Idli,Breakfast,38,50,1900,Wednesday,April,No,Outlet A
+2025-04-24,Idli,Breakfast,41,50,2050,Thursday,April,No,Outlet B
+2025-04-24,Veg Meals,Meals,40,120,4800,Thursday,April,No,Outlet C
+2025-04-24,Fried Rice,Rice,33,130,4290,Thursday,April,No,Outlet B
+2025-04-24,Chapati Set,Meals,37,90,3330,Thursday,April,No,Outlet B
+2025-04-24,Coffee,Beverages,76,30,2280,Thursday,April,No,Outlet B
+2025-04-25,Sandwich,Snacks,32,100,3200,Friday,April,No,Outlet B
+2025-04-25,Fresh Juice,Beverages,79,80,6320,Friday,April,Yes,Outlet C
+2025-04-25,Noodles,Fast Food,25,120,3000,Friday,April,No,Outlet C
+2025-04-25,Dosa,Breakfast,63,70,4410,Friday,April,Yes,Outlet C
+2025-04-25,Chapati Set,Meals,39,90,3510,Friday,April,No,Outlet C
+2025-04-25,Tea,Beverages,90,20,1800,Friday,April,Yes,Outlet B
+2025-04-26,Veg Biryani,Rice,54,140,7560,Saturday,April,No,Outlet A
+2025-04-26,Fresh Juice,Beverages,76,80,6080,Saturday,April,No,Outlet C
+2025-04-26,Idli,Breakfast,53,50,2650,Saturday,April,No,Outlet C
+2025-04-26,Dosa,Breakfast,41,70,2870,Saturday,April,No,Outlet B
+2025-04-26,Coffee,Beverages,84,30,2520,Saturday,April,No,Outlet C
+2025-04-26,Chapati Set,Meals,32,90,2880,Saturday,April,No,Outlet A
+2025-04-26,Chicken Biryani,Rice,44,180,7920,Saturday,April,No,Outlet C
+2025-04-27,Coffee,Beverages,70,30,2100,Sunday,April,No,Outlet A
+2025-04-27,Fresh Juice,Beverages,78,80,6240,Sunday,April,Yes,Outlet C
+2025-04-27,Fried Rice,Rice,49,130,6370,Sunday,April,No,Outlet C
+2025-04-27,Chapati Set,Meals,38,90,3420,Sunday,April,No,Outlet B
+2025-04-28,Chapati Set,Meals,42,90,3780,Monday,April,No,Outlet A
+2025-04-28,Veg Meals,Meals,38,120,4560,Monday,April,No,Outlet B
+2025-04-28,Noodles,Fast Food,29,120,3480,Monday,April,No,Outlet A
+2025-04-28,Chicken Biryani,Rice,37,180,6660,Monday,April,No,Outlet A
+2025-04-28,Idli,Breakfast,49,50,2450,Monday,April,No,Outlet B
+2025-04-29,Idli,Breakfast,48,50,2400,Tuesday,April,No,Outlet C
+2025-04-29,Veg Meals,Meals,41,120,4920,Tuesday,April,No,Outlet C
+2025-04-29,Chicken Biryani,Rice,33,180,5940,Tuesday,April,No,Outlet A
+2025-04-29,Fresh Juice,Beverages,59,80,4720,Tuesday,April,No,Outlet B
+2025-04-30,Fried Rice,Rice,45,130,5850,Wednesday,April,No,Outlet A
+2025-04-30,Fresh Juice,Beverages,59,80,4720,Wednesday,April,No,Outlet A
+2025-04-30,Veg Biryani,Rice,34,140,4760,Wednesday,April,No,Outlet C
+2025-04-30,Coffee,Beverages,48,30,1440,Wednesday,April,No,Outlet A
+2025-04-30,Sandwich,Snacks,29,100,2900,Wednesday,April,No,Outlet B
+2025-05-01,Dosa,Breakfast,41,70,2870,Thursday,May,No,Outlet B
+2025-05-01,Noodles,Fast Food,31,120,3720,Thursday,May,No,Outlet B
+2025-05-01,Chicken Biryani,Rice,39,180,7020,Thursday,May,No,Outlet A
+2025-05-01,Idli,Breakfast,50,50,2500,Thursday,May,No,Outlet B
+2025-05-01,Fresh Juice,Beverages,64,80,5120,Thursday,May,No,Outlet C
+2025-05-01,Tea,Beverages,62,20,1240,Thursday,May,Yes,Outlet B
+2025-05-02,Veg Biryani,Rice,42,140,5880,Friday,May,No,Outlet C
+2025-05-02,Chapati Set,Meals,29,90,2610,Friday,May,No,Outlet C
+2025-05-02,Sandwich,Snacks,34,100,3400,Friday,May,No,Outlet A
+2025-05-02,Tea,Beverages,61,20,1220,Friday,May,No,Outlet A
+2025-05-03,Chapati Set,Meals,40,90,3600,Saturday,May,No,Outlet A
+2025-05-03,Noodles,Fast Food,44,120,5280,Saturday,May,No,Outlet C
+2025-05-03,Coffee,Beverages,69,30,2070,Saturday,May,No,Outlet B
+2025-05-03,Veg Meals,Meals,47,120,5640,Saturday,May,No,Outlet B
+2025-05-03,Sandwich,Snacks,43,100,4300,Saturday,May,Yes,Outlet A
+2025-05-04,Veg Meals,Meals,41,120,4920,Sunday,May,No,Outlet B
+2025-05-04,Idli,Breakfast,43,50,2150,Sunday,May,No,Outlet A
+2025-05-04,Dosa,Breakfast,54,70,3780,Sunday,May,No,Outlet B
+2025-05-04,Tea,Beverages,82,20,1640,Sunday,May,No,Outlet C
+2025-05-04,Fresh Juice,Beverages,62,80,4960,Sunday,May,No,Outlet B
+2025-05-04,Chicken Biryani,Rice,69,180,12420,Sunday,May,Yes,Outlet A
+2025-05-05,Veg Meals,Meals,27,120,3240,Monday,May,No,Outlet A
+2025-05-05,Noodles,Fast Food,34,120,4080,Monday,May,No,Outlet C
+2025-05-05,Idli,Breakfast,50,50,2500,Monday,May,No,Outlet C
+2025-05-05,Chapati Set,Meals,36,90,3240,Monday,May,No,Outlet A
+2025-05-05,Chicken Biryani,Rice,46,180,8280,Monday,May,No,Outlet C
+2025-05-05,Dosa,Breakfast,40,70,2800,Monday,May,No,Outlet C
+2025-05-06,Chapati Set,Meals,48,90,4320,Tuesday,May,Yes,Outlet B
+2025-05-06,Idli,Breakfast,56,50,2800,Tuesday,May,No,Outlet C
+2025-05-06,Fresh Juice,Beverages,91,80,7280,Tuesday,May,Yes,Outlet A
+2025-05-06,Coffee,Beverages,70,30,2100,Tuesday,May,Yes,Outlet A
+2025-05-06,Chicken Biryani,Rice,44,180,7920,Tuesday,May,No,Outlet B
+2025-05-07,Coffee,Beverages,66,30,1980,Wednesday,May,No,Outlet A
+2025-05-07,Fresh Juice,Beverages,69,80,5520,Wednesday,May,No,Outlet C
+2025-05-07,Idli,Breakfast,42,50,2100,Wednesday,May,No,Outlet B
+2025-05-07,Fried Rice,Rice,30,130,3900,Wednesday,May,No,Outlet C
+2025-05-07,Tea,Beverages,95,20,1900,Wednesday,May,Yes,Outlet C
+2025-05-08,Chicken Biryani,Rice,35,180,6300,Thursday,May,No,Outlet B
+2025-05-08,Tea,Beverages,64,20,1280,Thursday,May,No,Outlet C
+2025-05-08,Fried Rice,Rice,46,130,5980,Thursday,May,No,Outlet C
+2025-05-08,Dosa,Breakfast,35,70,2450,Thursday,May,No,Outlet C
+2025-05-08,Coffee,Beverages,60,30,1800,Thursday,May,No,Outlet A
+2025-05-08,Noodles,Fast Food,25,120,3000,Thursday,May,No,Outlet B
+2025-05-09,Fried Rice,Rice,61,130,7930,Friday,May,Yes,Outlet B
+2025-05-09,Dosa,Breakfast,52,70,3640,Friday,May,Yes,Outlet A
+2025-05-09,Veg Biryani,Rice,48,140,6720,Friday,May,No,Outlet A
+2025-05-09,Idli,Breakfast,60,50,3000,Friday,May,Yes,Outlet C
+2025-05-10,Fried Rice,Rice,37,130,4810,Saturday,May,No,Outlet C
+2025-05-10,Fresh Juice,Beverages,79,80,6320,Saturday,May,No,Outlet A
+2025-05-10,Chicken Biryani,Rice,54,180,9720,Saturday,May,Yes,Outlet A
+2025-05-10,Coffee,Beverages,70,30,2100,Saturday,May,No,Outlet A
+2025-05-10,Veg Meals,Meals,35,120,4200,Saturday,May,No,Outlet A
+2025-05-11,Chicken Biryani,Rice,67,180,12060,Sunday,May,Yes,Outlet A
+2025-05-11,Chapati Set,Meals,44,90,3960,Sunday,May,No,Outlet A
+2025-05-11,Fresh Juice,Beverages,55,80,4400,Sunday,May,No,Outlet C
+2025-05-11,Idli,Breakfast,61,50,3050,Sunday,May,Yes,Outlet A
+2025-05-12,Fried Rice,Rice,33,130,4290,Monday,May,No,Outlet A
+2025-05-12,Coffee,Beverages,58,30,1740,Monday,May,No,Outlet B
+2025-05-12,Noodles,Fast Food,25,120,3000,Monday,May,No,Outlet B
+2025-05-12,Dosa,Breakfast,39,70,2730,Monday,May,No,Outlet C
+2025-05-12,Chicken Biryani,Rice,42,180,7560,Monday,May,No,Outlet C
+2025-05-13,Fresh Juice,Beverages,52,80,4160,Tuesday,May,No,Outlet B
+2025-05-13,Idli,Breakfast,35,50,1750,Tuesday,May,No,Outlet A
+2025-05-13,Dosa,Breakfast,36,70,2520,Tuesday,May,No,Outlet B
+2025-05-13,Tea,Beverages,48,20,960,Tuesday,May,No,Outlet A
+2025-05-14,Chapati Set,Meals,38,90,3420,Wednesday,May,No,Outlet A
+2025-05-14,Veg Biryani,Rice,39,140,5460,Wednesday,May,Yes,Outlet B
+2025-05-14,Fried Rice,Rice,48,130,6240,Wednesday,May,No,Outlet B
+2025-05-14,Coffee,Beverages,66,30,1980,Wednesday,May,No,Outlet C
+2025-05-14,Sandwich,Snacks,27,100,2700,Wednesday,May,No,Outlet B
+2025-05-14,Idli,Breakfast,57,50,2850,Wednesday,May,Yes,Outlet C
+2025-05-15,Idli,Breakfast,37,50,1850,Thursday,May,No,Outlet B
+2025-05-15,Chicken Biryani,Rice,43,180,7740,Thursday,May,No,Outlet C
+2025-05-15,Sandwich,Snacks,22,100,2200,Thursday,May,No,Outlet C
+2025-05-15,Fresh Juice,Beverages,76,80,6080,Thursday,May,No,Outlet A
+2025-05-15,Dosa,Breakfast,45,70,3150,Thursday,May,Yes,Outlet B
+2025-05-16,Noodles,Fast Food,34,120,4080,Friday,May,No,Outlet C
+2025-05-16,Coffee,Beverages,58,30,1740,Friday,May,Yes,Outlet A
+2025-05-16,Fresh Juice,Beverages,51,80,4080,Friday,May,No,Outlet B
+2025-05-16,Veg Meals,Meals,39,120,4680,Friday,May,No,Outlet C
+2025-05-17,Veg Biryani,Rice,43,140,6020,Saturday,May,No,Outlet B
+2025-05-17,Chapati Set,Meals,31,90,2790,Saturday,May,No,Outlet C
+2025-05-17,Sandwich,Snacks,35,100,3500,Saturday,May,No,Outlet B
+2025-05-17,Idli,Breakfast,49,50,2450,Saturday,May,No,Outlet B
+2025-05-17,Chicken Biryani,Rice,39,180,7020,Saturday,May,No,Outlet A
+2025-05-17,Fried Rice,Rice,38,130,4940,Saturday,May,No,Outlet C
+2025-05-18,Dosa,Breakfast,40,70,2800,Sunday,May,No,Outlet A
+2025-05-18,Tea,Beverages,68,20,1360,Sunday,May,No,Outlet A
+2025-05-18,Veg Meals,Meals,62,120,7440,Sunday,May,Yes,Outlet A
+2025-05-18,Coffee,Beverages,88,30,2640,Sunday,May,No,Outlet C
+2025-05-19,Dosa,Breakfast,36,70,2520,Monday,May,No,Outlet C
+2025-05-19,Chapati Set,Meals,29,90,2610,Monday,May,No,Outlet C
+2025-05-19,Sandwich,Snacks,34,100,3400,Monday,May,No,Outlet A
+2025-05-19,Fried Rice,Rice,47,130,6110,Monday,May,No,Outlet B
+2025-05-19,Fresh Juice,Beverages,63,80,5040,Monday,May,No,Outlet A
+2025-05-19,Veg Biryani,Rice,36,140,5040,Monday,May,No,Outlet B
+2025-05-19,Veg Meals,Meals,30,120,3600,Monday,May,No,Outlet B
+2025-05-20,Dosa,Breakfast,42,70,2940,Tuesday,May,No,Outlet C
+2025-05-20,Tea,Beverages,75,20,1500,Tuesday,May,No,Outlet A
+2025-05-20,Sandwich,Snacks,26,100,2600,Tuesday,May,No,Outlet C
+2025-05-20,Veg Biryani,Rice,32,140,4480,Tuesday,May,No,Outlet C
+2025-05-20,Veg Meals,Meals,33,120,3960,Tuesday,May,No,Outlet A
+2025-05-20,Coffee,Beverages,51,30,1530,Tuesday,May,No,Outlet B
+2025-05-20,Noodles,Fast Food,45,120,5400,Tuesday,May,Yes,Outlet C
+2025-05-21,Sandwich,Snacks,27,100,2700,Wednesday,May,No,Outlet C
+2025-05-21,Chapati Set,Meals,33,90,2970,Wednesday,May,No,Outlet A
+2025-05-21,Noodles,Fast Food,26,120,3120,Wednesday,May,No,Outlet B
+2025-05-21,Chicken Biryani,Rice,38,180,6840,Wednesday,May,No,Outlet C
+2025-05-21,Tea,Beverages,60,20,1200,Wednesday,May,No,Outlet A
+2025-05-21,Idli,Breakfast,48,50,2400,Wednesday,May,Yes,Outlet C
+2025-05-21,Coffee,Beverages,62,30,1860,Wednesday,May,Yes,Outlet B
+2025-05-22,Chapati Set,Meals,33,90,2970,Thursday,May,No,Outlet A
+2025-05-22,Fried Rice,Rice,58,130,7540,Thursday,May,Yes,Outlet B
+2025-05-22,Chicken Biryani,Rice,44,180,7920,Thursday,May,No,Outlet A
+2025-05-22,Tea,Beverages,73,20,1460,Thursday,May,No,Outlet A
+2025-05-22,Sandwich,Snacks,31,100,3100,Thursday,May,Yes,Outlet B
+2025-05-22,Fresh Juice,Beverages,48,80,3840,Thursday,May,No,Outlet B
+2025-05-22,Coffee,Beverages,77,30,2310,Thursday,May,No,Outlet A
+2025-05-23,Noodles,Fast Food,25,120,3000,Friday,May,No,Outlet A
+2025-05-23,Tea,Beverages,88,20,1760,Friday,May,Yes,Outlet A
+2025-05-23,Fresh Juice,Beverages,89,80,7120,Friday,May,Yes,Outlet B
+2025-05-23,Dosa,Breakfast,55,70,3850,Friday,May,No,Outlet A
+2025-05-23,Chicken Biryani,Rice,35,180,6300,Friday,May,No,Outlet A
+2025-05-23,Coffee,Beverages,60,30,1800,Friday,May,Yes,Outlet C
+2025-05-23,Veg Meals,Meals,28,120,3360,Friday,May,No,Outlet B
+2025-05-24,Veg Meals,Meals,39,120,4680,Saturday,May,No,Outlet C
+2025-05-24,Noodles,Fast Food,27,120,3240,Saturday,May,No,Outlet C
+2025-05-24,Sandwich,Snacks,31,100,3100,Saturday,May,No,Outlet A
+2025-05-24,Veg Biryani,Rice,46,140,6440,Saturday,May,No,Outlet A
+2025-05-25,Coffee,Beverages,73,30,2190,Sunday,May,No,Outlet C
+2025-05-25,Sandwich,Snacks,26,100,2600,Sunday,May,No,Outlet B
+2025-05-25,Fresh Juice,Beverages,77,80,6160,Sunday,May,Yes,Outlet C
+2025-05-25,Dosa,Breakfast,66,70,4620,Sunday,May,No,Outlet C
+2025-05-26,Fried Rice,Rice,37,130,4810,Monday,May,No,Outlet C
+2025-05-26,Chapati Set,Meals,32,90,2880,Monday,May,No,Outlet A
+2025-05-26,Noodles,Fast Food,39,120,4680,Monday,May,Yes,Outlet A
+2025-05-26,Tea,Beverages,70,20,1400,Monday,May,No,Outlet A
+2025-05-27,Tea,Beverages,54,20,1080,Tuesday,May,No,Outlet C
+2025-05-27,Chapati Set,Meals,53,90,4770,Tuesday,May,Yes,Outlet A
+2025-05-27,Coffee,Beverages,76,30,2280,Tuesday,May,No,Outlet B
+2025-05-27,Dosa,Breakfast,53,70,3710,Tuesday,May,No,Outlet A
+2025-05-27,Veg Biryani,Rice,52,140,7280,Tuesday,May,Yes,Outlet C
+2025-05-27,Veg Meals,Meals,41,120,4920,Tuesday,May,No,Outlet A
+2025-05-27,Chicken Biryani,Rice,37,180,6660,Tuesday,May,No,Outlet C
+2025-05-28,Coffee,Beverages,59,30,1770,Wednesday,May,Yes,Outlet A
+2025-05-28,Dosa,Breakfast,39,70,2730,Wednesday,May,No,Outlet C
+2025-05-28,Noodles,Fast Food,27,120,3240,Wednesday,May,No,Outlet C
+2025-05-28,Tea,Beverages,50,20,1000,Wednesday,May,No,Outlet C
+2025-05-28,Idli,Breakfast,65,50,3250,Wednesday,May,Yes,Outlet B
+2025-05-29,Veg Meals,Meals,40,120,4800,Thursday,May,No,Outlet B
+2025-05-29,Veg Biryani,Rice,37,140,5180,Thursday,May,No,Outlet C
+2025-05-29,Coffee,Beverages,49,30,1470,Thursday,May,No,Outlet B
+2025-05-29,Fresh Juice,Beverages,76,80,6080,Thursday,May,No,Outlet C
+2025-05-30,Fresh Juice,Beverages,52,80,4160,Friday,May,No,Outlet B
+2025-05-30,Noodles,Fast Food,27,120,3240,Friday,May,No,Outlet A
+2025-05-30,Chapati Set,Meals,42,90,3780,Friday,May,No,Outlet C
+2025-05-30,Veg Biryani,Rice,50,140,7000,Friday,May,No,Outlet C
+2025-05-30,Coffee,Beverages,81,30,2430,Friday,May,Yes,Outlet C
+2025-05-30,Chicken Biryani,Rice,41,180,7380,Friday,May,No,Outlet B
+2025-05-30,Sandwich,Snacks,39,100,3900,Friday,May,Yes,Outlet A
+2025-05-31,Chapati Set,Meals,35,90,3150,Saturday,May,No,Outlet A
+2025-05-31,Veg Biryani,Rice,54,140,7560,Saturday,May,No,Outlet C
+2025-05-31,Chicken Biryani,Rice,56,180,10080,Saturday,May,Yes,Outlet C
+2025-05-31,Sandwich,Snacks,28,100,2800,Saturday,May,No,Outlet B
+2025-05-31,Noodles,Fast Food,33,120,3960,Saturday,May,No,Outlet C
+2025-05-31,Veg Meals,Meals,47,120,5640,Saturday,May,No,Outlet C
+2025-06-01,Veg Biryani,Rice,52,140,7280,Sunday,June,Yes,Outlet A
+2025-06-01,Noodles,Fast Food,37,120,4440,Sunday,June,Yes,Outlet B
+2025-06-01,Chicken Biryani,Rice,46,180,8280,Sunday,June,Yes,Outlet A
+2025-06-01,Veg Meals,Meals,50,120,6000,Sunday,June,No,Outlet B
+2025-06-01,Idli,Breakfast,51,50,2550,Sunday,June,No,Outlet C
+2025-06-02,Coffee,Beverages,76,30,2280,Monday,June,No,Outlet B
+2025-06-02,Fried Rice,Rice,44,130,5720,Monday,June,No,Outlet C
+2025-06-02,Veg Biryani,Rice,43,140,6020,Monday,June,No,Outlet B
+2025-06-02,Veg Meals,Meals,26,120,3120,Monday,June,No,Outlet C
+2025-06-02,Chicken Biryani,Rice,40,180,7200,Monday,June,No,Outlet A
+2025-06-03,Veg Meals,Meals,36,120,4320,Tuesday,June,Yes,Outlet C
+2025-06-03,Fried Rice,Rice,32,130,4160,Tuesday,June,No,Outlet A
+2025-06-03,Chicken Biryani,Rice,38,180,6840,Tuesday,June,No,Outlet B
+2025-06-03,Idli,Breakfast,40,50,2000,Tuesday,June,No,Outlet C
+2025-06-03,Noodles,Fast Food,25,120,3000,Tuesday,June,No,Outlet B
+2025-06-03,Coffee,Beverages,60,30,1800,Tuesday,June,No,Outlet B
+2025-06-04,Noodles,Fast Food,24,120,2880,Wednesday,June,No,Outlet B
+2025-06-04,Idli,Breakfast,43,50,2150,Wednesday,June,No,Outlet C
+2025-06-04,Dosa,Breakfast,35,70,2450,Wednesday,June,No,Outlet B
+2025-06-04,Fresh Juice,Beverages,59,80,4720,Wednesday,June,No,Outlet C
+2025-06-04,Veg Meals,Meals,41,120,4920,Wednesday,June,No,Outlet C
+2025-06-04,Chicken Biryani,Rice,40,180,7200,Wednesday,June,No,Outlet A
+2025-06-04,Chapati Set,Meals,40,90,3600,Wednesday,June,No,Outlet A
+2025-06-05,Chicken Biryani,Rice,33,180,5940,Thursday,June,No,Outlet B
+2025-06-05,Noodles,Fast Food,41,120,4920,Thursday,June,Yes,Outlet A
+2025-06-05,Veg Biryani,Rice,43,140,6020,Thursday,June,No,Outlet C
+2025-06-05,Coffee,Beverages,74,30,2220,Thursday,June,No,Outlet A
+2025-06-05,Dosa,Breakfast,58,70,4060,Thursday,June,Yes,Outlet C
+2025-06-06,Idli,Breakfast,37,50,1850,Friday,June,No,Outlet C
+2025-06-06,Tea,Beverages,76,20,1520,Friday,June,No,Outlet A
+2025-06-06,Noodles,Fast Food,31,120,3720,Friday,June,No,Outlet A
+2025-06-06,Veg Meals,Meals,40,120,4800,Friday,June,No,Outlet B
+2025-06-06,Fried Rice,Rice,35,130,4550,Friday,June,No,Outlet C
+2025-06-06,Fresh Juice,Beverages,65,80,5200,Friday,June,No,Outlet A
+2025-06-07,Idli,Breakfast,63,50,3150,Saturday,June,No,Outlet C
+2025-06-07,Fried Rice,Rice,53,130,6890,Saturday,June,No,Outlet B
+2025-06-07,Veg Biryani,Rice,36,140,5040,Saturday,June,No,Outlet B
+2025-06-07,Fresh Juice,Beverages,85,80,6800,Saturday,June,No,Outlet C
+2025-06-07,Veg Meals,Meals,50,120,6000,Saturday,June,No,Outlet A
+2025-06-08,Idli,Breakfast,42,50,2100,Sunday,June,No,Outlet B
+2025-06-08,Noodles,Fast Food,41,120,4920,Sunday,June,No,Outlet C
+2025-06-08,Chapati Set,Meals,40,90,3600,Sunday,June,No,Outlet B
+2025-06-08,Sandwich,Snacks,33,100,3300,Sunday,June,No,Outlet A
+2025-06-08,Fried Rice,Rice,65,130,8450,Sunday,June,Yes,Outlet B
+2025-06-09,Tea,Beverages,52,20,1040,Monday,June,No,Outlet A
+2025-06-09,Coffee,Beverages,60,30,1800,Monday,June,No,Outlet B
+2025-06-09,Veg Meals,Meals,30,120,3600,Monday,June,No,Outlet B
+2025-06-09,Veg Biryani,Rice,43,140,6020,Monday,June,No,Outlet A
+2025-06-09,Dosa,Breakfast,39,70,2730,Monday,June,No,Outlet B
+2025-06-10,Veg Biryani,Rice,35,140,4900,Tuesday,June,No,Outlet C
+2025-06-10,Noodles,Fast Food,29,120,3480,Tuesday,June,Yes,Outlet A
+2025-06-10,Coffee,Beverages,80,30,2400,Tuesday,June,Yes,Outlet A
+2025-06-10,Tea,Beverages,66,20,1320,Tuesday,June,No,Outlet C
+2025-06-10,Chapati Set,Meals,37,90,3330,Tuesday,June,No,Outlet C
+2025-06-10,Sandwich,Snacks,40,100,4000,Tuesday,June,Yes,Outlet C
+2025-06-10,Chicken Biryani,Rice,60,180,10800,Tuesday,June,Yes,Outlet C
+2025-06-11,Coffee,Beverages,68,30,2040,Wednesday,June,No,Outlet B
+2025-06-11,Veg Meals,Meals,32,120,3840,Wednesday,June,No,Outlet B
+2025-06-11,Dosa,Breakfast,39,70,2730,Wednesday,June,No,Outlet B
+2025-06-11,Idli,Breakfast,52,50,2600,Wednesday,June,No,Outlet B
+2025-06-11,Tea,Beverages,46,20,920,Wednesday,June,No,Outlet C
+2025-06-12,Tea,Beverages,60,20,1200,Thursday,June,Yes,Outlet B
+2025-06-12,Fresh Juice,Beverages,73,80,5840,Thursday,June,No,Outlet B
+2025-06-12,Coffee,Beverages,76,30,2280,Thursday,June,No,Outlet C
+2025-06-12,Idli,Breakfast,37,50,1850,Thursday,June,No,Outlet A
+2025-06-12,Sandwich,Snacks,32,100,3200,Thursday,June,No,Outlet C
+2025-06-12,Chapati Set,Meals,31,90,2790,Thursday,June,No,Outlet A
+2025-06-13,Fresh Juice,Beverages,59,80,4720,Friday,June,No,Outlet C
+2025-06-13,Noodles,Fast Food,41,120,4920,Friday,June,Yes,Outlet C
+2025-06-13,Idli,Breakfast,41,50,2050,Friday,June,No,Outlet C
+2025-06-13,Coffee,Beverages,63,30,1890,Friday,June,No,Outlet B
+2025-06-14,Tea,Beverages,74,20,1480,Saturday,June,Yes,Outlet B
+2025-06-14,Idli,Breakfast,55,50,2750,Saturday,June,No,Outlet A
+2025-06-14,Veg Biryani,Rice,57,140,7980,Saturday,June,No,Outlet C
+2025-06-14,Sandwich,Snacks,38,100,3800,Saturday,June,Yes,Outlet C
+2025-06-14,Coffee,Beverages,70,30,2100,Saturday,June,No,Outlet B
+2025-06-14,Noodles,Fast Food,37,120,4440,Saturday,June,No,Outlet B
+2025-06-15,Noodles,Fast Food,30,120,3600,Sunday,June,No,Outlet A
+2025-06-15,Veg Meals,Meals,38,120,4560,Sunday,June,No,Outlet B
+2025-06-15,Coffee,Beverages,86,30,2580,Sunday,June,No,Outlet A
+2025-06-15,Chicken Biryani,Rice,50,180,9000,Sunday,June,Yes,Outlet B
+2025-06-16,Veg Biryani,Rice,36,140,5040,Monday,June,No,Outlet A
+2025-06-16,Chapati Set,Meals,38,90,3420,Monday,June,Yes,Outlet A
+2025-06-16,Sandwich,Snacks,23,100,2300,Monday,June,No,Outlet A
+2025-06-16,Chicken Biryani,Rice,48,180,8640,Monday,June,Yes,Outlet B
+2025-06-16,Noodles,Fast Food,37,120,4440,Monday,June,No,Outlet B
+2025-06-16,Coffee,Beverages,78,30,2340,Monday,June,Yes,Outlet C
+2025-06-16,Fresh Juice,Beverages,47,80,3760,Monday,June,No,Outlet B
+2025-06-17,Veg Meals,Meals,31,120,3720,Tuesday,June,No,Outlet A
+2025-06-17,Fresh Juice,Beverages,77,80,6160,Tuesday,June,Yes,Outlet B
+2025-06-17,Sandwich,Snacks,41,100,4100,Tuesday,June,Yes,Outlet B
+2025-06-17,Dosa,Breakfast,44,70,3080,Tuesday,June,No,Outlet C
+2025-06-17,Tea,Beverages,57,20,1140,Tuesday,June,No,Outlet C
+2025-06-18,Chapati Set,Meals,41,90,3690,Wednesday,June,No,Outlet B
+2025-06-18,Noodles,Fast Food,32,120,3840,Wednesday,June,Yes,Outlet A
+2025-06-18,Sandwich,Snacks,21,100,2100,Wednesday,June,No,Outlet C
+2025-06-18,Dosa,Breakfast,52,70,3640,Wednesday,June,Yes,Outlet C
+2025-06-18,Veg Biryani,Rice,38,140,5320,Wednesday,June,No,Outlet C
+2025-06-19,Tea,Beverages,48,20,960,Thursday,June,No,Outlet A
+2025-06-19,Coffee,Beverages,58,30,1740,Thursday,June,No,Outlet C
+2025-06-19,Veg Meals,Meals,37,120,4440,Thursday,June,No,Outlet A
+2025-06-19,Fresh Juice,Beverages,66,80,5280,Thursday,June,No,Outlet B
+2025-06-19,Chicken Biryani,Rice,32,180,5760,Thursday,June,No,Outlet C
+2025-06-19,Chapati Set,Meals,36,90,3240,Thursday,June,No,Outlet A
+2025-06-20,Chicken Biryani,Rice,42,180,7560,Friday,June,No,Outlet B
+2025-06-20,Tea,Beverages,76,20,1520,Friday,June,No,Outlet B
+2025-06-20,Coffee,Beverages,55,30,1650,Friday,June,No,Outlet A
+2025-06-20,Sandwich,Snacks,34,100,3400,Friday,June,No,Outlet C
+2025-06-20,Idli,Breakfast,41,50,2050,Friday,June,No,Outlet A
+2025-06-20,Veg Meals,Meals,34,120,4080,Friday,June,Yes,Outlet A
+2025-06-20,Fried Rice,Rice,43,130,5590,Friday,June,No,Outlet A
+2025-06-21,Tea,Beverages,71,20,1420,Saturday,June,No,Outlet B
+2025-06-21,Chicken Biryani,Rice,37,180,6660,Saturday,June,No,Outlet A
+2025-06-21,Fresh Juice,Beverages,85,80,6800,Saturday,June,No,Outlet B
+2025-06-21,Idli,Breakfast,48,50,2400,Saturday,June,No,Outlet C
+2025-06-22,Chicken Biryani,Rice,39,180,7020,Sunday,June,No,Outlet B
+2025-06-22,Veg Meals,Meals,49,120,5880,Sunday,June,No,Outlet B
+2025-06-22,Fresh Juice,Beverages,58,80,4640,Sunday,June,No,Outlet B
+2025-06-22,Veg Biryani,Rice,45,140,6300,Sunday,June,No,Outlet B
+2025-06-23,Fried Rice,Rice,31,130,4030,Monday,June,No,Outlet A
+2025-06-23,Noodles,Fast Food,45,120,5400,Monday,June,Yes,Outlet B
+2025-06-23,Sandwich,Snacks,30,100,3000,Monday,June,No,Outlet A
+2025-06-23,Veg Biryani,Rice,46,140,6440,Monday,June,No,Outlet C
+2025-06-23,Chicken Biryani,Rice,55,180,9900,Monday,June,Yes,Outlet C
+2025-06-23,Fresh Juice,Beverages,50,80,4000,Monday,June,No,Outlet B
+2025-06-24,Fried Rice,Rice,36,130,4680,Tuesday,June,No,Outlet C
+2025-06-24,Noodles,Fast Food,30,120,3600,Tuesday,June,No,Outlet C
+2025-06-24,Veg Meals,Meals,35,120,4200,Tuesday,June,No,Outlet C
+2025-06-24,Chicken Biryani,Rice,40,180,7200,Tuesday,June,No,Outlet C
+2025-06-25,Fried Rice,Rice,44,130,5720,Wednesday,June,No,Outlet B
+2025-06-25,Fresh Juice,Beverages,90,80,7200,Wednesday,June,Yes,Outlet C
+2025-06-25,Dosa,Breakfast,60,70,4200,Wednesday,June,Yes,Outlet A
+2025-06-25,Noodles,Fast Food,30,120,3600,Wednesday,June,No,Outlet B
+2025-06-26,Chicken Biryani,Rice,31,180,5580,Thursday,June,No,Outlet A
+2025-06-26,Noodles,Fast Food,28,120,3360,Thursday,June,No,Outlet A
+2025-06-26,Chapati Set,Meals,41,90,3690,Thursday,June,Yes,Outlet C
+2025-06-26,Dosa,Breakfast,53,70,3710,Thursday,June,No,Outlet B
+2025-06-26,Coffee,Beverages,76,30,2280,Thursday,June,No,Outlet C
+2025-06-27,Chicken Biryani,Rice,30,180,5400,Friday,June,No,Outlet A
+2025-06-27,Fried Rice,Rice,49,130,6370,Friday,June,No,Outlet C
+2025-06-27,Fresh Juice,Beverages,62,80,4960,Friday,June,No,Outlet A
+2025-06-27,Veg Meals,Meals,33,120,3960,Friday,June,No,Outlet B
+2025-06-28,Veg Meals,Meals,44,120,5280,Saturday,June,No,Outlet A
+2025-06-28,Dosa,Breakfast,72,70,5040,Saturday,June,Yes,Outlet A
+2025-06-28,Noodles,Fast Food,41,120,4920,Saturday,June,No,Outlet B
+2025-06-28,Chapati Set,Meals,38,90,3420,Saturday,June,No,Outlet A
+2025-06-28,Coffee,Beverages,76,30,2280,Saturday,June,Yes,Outlet A
+2025-06-28,Tea,Beverages,82,20,1640,Saturday,June,No,Outlet B
+2025-06-29,Idli,Breakfast,78,50,3900,Sunday,June,Yes,Outlet A
+2025-06-29,Coffee,Beverages,83,30,2490,Sunday,June,No,Outlet C
+2025-06-29,Dosa,Breakfast,60,70,4200,Sunday,June,No,Outlet A
+2025-06-29,Fresh Juice,Beverages,85,80,6800,Sunday,June,No,Outlet C
+2025-06-30,Noodles,Fast Food,37,120,4440,Monday,June,Yes,Outlet C
+2025-06-30,Sandwich,Snacks,29,100,2900,Monday,June,No,Outlet B
+2025-06-30,Coffee,Beverages,61,30,1830,Monday,June,No,Outlet C
+2025-06-30,Tea,Beverages,74,20,1480,Monday,June,No,Outlet C
+2025-07-01,Sandwich,Snacks,26,100,2600,Tuesday,July,No,Outlet C
+2025-07-01,Veg Biryani,Rice,45,140,6300,Tuesday,July,No,Outlet B
+2025-07-01,Chicken Biryani,Rice,37,180,6660,Tuesday,July,No,Outlet B
+2025-07-01,Fried Rice,Rice,33,130,4290,Tuesday,July,No,Outlet B
+2025-07-01,Chapati Set,Meals,41,90,3690,Tuesday,July,No,Outlet C
+2025-07-02,Sandwich,Snacks,31,100,3100,Wednesday,July,No,Outlet C
+2025-07-02,Tea,Beverages,60,20,1200,Wednesday,July,No,Outlet C
+2025-07-02,Chapati Set,Meals,42,90,3780,Wednesday,July,No,Outlet C
+2025-07-02,Fresh Juice,Beverages,59,80,4720,Wednesday,July,No,Outlet C
+2025-07-02,Dosa,Breakfast,52,70,3640,Wednesday,July,Yes,Outlet B
+2025-07-02,Chicken Biryani,Rice,49,180,8820,Wednesday,July,No,Outlet C
+2025-07-03,Fresh Juice,Beverages,57,80,4560,Thursday,July,Yes,Outlet C
+2025-07-03,Tea,Beverages,61,20,1220,Thursday,July,Yes,Outlet A
+2025-07-03,Idli,Breakfast,49,50,2450,Thursday,July,No,Outlet A
+2025-07-03,Fried Rice,Rice,44,130,5720,Thursday,July,No,Outlet B
+2025-07-03,Veg Meals,Meals,35,120,4200,Thursday,July,No,Outlet B
+2025-07-03,Coffee,Beverages,44,30,1320,Thursday,July,No,Outlet C
+2025-07-03,Noodles,Fast Food,35,120,4200,Thursday,July,No,Outlet C
+2025-07-04,Dosa,Breakfast,56,70,3920,Friday,July,No,Outlet B
+2025-07-04,Tea,Beverages,43,20,860,Friday,July,No,Outlet C
+2025-07-04,Idli,Breakfast,48,50,2400,Friday,July,No,Outlet B
+2025-07-04,Veg Meals,Meals,41,120,4920,Friday,July,No,Outlet C
+2025-07-04,Fried Rice,Rice,37,130,4810,Friday,July,No,Outlet C
+2025-07-04,Sandwich,Snacks,29,100,2900,Friday,July,No,Outlet C
+2025-07-04,Noodles,Fast Food,27,120,3240,Friday,July,No,Outlet A
+2025-07-05,Veg Biryani,Rice,46,140,6440,Saturday,July,No,Outlet C
+2025-07-05,Sandwich,Snacks,27,100,2700,Saturday,July,No,Outlet B
+2025-07-05,Tea,Beverages,80,20,1600,Saturday,July,Yes,Outlet A
+2025-07-05,Chicken Biryani,Rice,72,180,12960,Saturday,July,Yes,Outlet C
+2025-07-06,Fresh Juice,Beverages,67,80,5360,Sunday,July,No,Outlet A
+2025-07-06,Coffee,Beverages,59,30,1770,Sunday,July,No,Outlet A
+2025-07-06,Idli,Breakfast,54,50,2700,Sunday,July,No,Outlet C
+2025-07-06,Noodles,Fast Food,45,120,5400,Sunday,July,Yes,Outlet B
+2025-07-07,Chapati Set,Meals,30,90,2700,Monday,July,No,Outlet C
+2025-07-07,Dosa,Breakfast,56,70,3920,Monday,July,No,Outlet C
+2025-07-07,Fresh Juice,Beverages,75,80,6000,Monday,July,Yes,Outlet B
+2025-07-07,Sandwich,Snacks,30,100,3000,Monday,July,No,Outlet C
+2025-07-08,Veg Meals,Meals,35,120,4200,Tuesday,July,No,Outlet B
+2025-07-08,Fresh Juice,Beverages,69,80,5520,Tuesday,July,Yes,Outlet B
+2025-07-08,Chapati Set,Meals,34,90,3060,Tuesday,July,No,Outlet B
+2025-07-08,Fried Rice,Rice,60,130,7800,Tuesday,July,Yes,Outlet A
+2025-07-08,Chicken Biryani,Rice,32,180,5760,Tuesday,July,No,Outlet A
+2025-07-09,Tea,Beverages,63,20,1260,Wednesday,July,No,Outlet C
+2025-07-09,Sandwich,Snacks,22,100,2200,Wednesday,July,No,Outlet C
+2025-07-09,Veg Meals,Meals,40,120,4800,Wednesday,July,No,Outlet C
+2025-07-09,Chicken Biryani,Rice,43,180,7740,Wednesday,July,No,Outlet A
+2025-07-09,Dosa,Breakfast,37,70,2590,Wednesday,July,No,Outlet B
+2025-07-10,Veg Meals,Meals,27,120,3240,Thursday,July,No,Outlet A
+2025-07-10,Chicken Biryani,Rice,38,180,6840,Thursday,July,No,Outlet B
+2025-07-10,Fresh Juice,Beverages,53,80,4240,Thursday,July,No,Outlet A
+2025-07-10,Sandwich,Snacks,23,100,2300,Thursday,July,No,Outlet A
+2025-07-10,Veg Biryani,Rice,42,140,5880,Thursday,July,No,Outlet C
+2025-07-10,Fried Rice,Rice,44,130,5720,Thursday,July,No,Outlet A
+2025-07-11,Tea,Beverages,53,20,1060,Friday,July,No,Outlet B
+2025-07-11,Chicken Biryani,Rice,31,180,5580,Friday,July,No,Outlet A
+2025-07-11,Idli,Breakfast,37,50,1850,Friday,July,No,Outlet B
+2025-07-11,Coffee,Beverages,65,30,1950,Friday,July,No,Outlet B
+2025-07-11,Fresh Juice,Beverages,45,80,3600,Friday,July,No,Outlet C
+2025-07-11,Veg Biryani,Rice,49,140,6860,Friday,July,No,Outlet C
+2025-07-12,Veg Meals,Meals,53,120,6360,Saturday,July,Yes,Outlet C
+2025-07-12,Tea,Beverages,51,20,1020,Saturday,July,No,Outlet A
+2025-07-12,Fresh Juice,Beverages,78,80,6240,Saturday,July,No,Outlet B
+2025-07-12,Veg Biryani,Rice,57,140,7980,Saturday,July,No,Outlet C
+2025-07-12,Chicken Biryani,Rice,50,180,9000,Saturday,July,Yes,Outlet C
+2025-07-12,Sandwich,Snacks,28,100,2800,Saturday,July,No,Outlet A
+2025-07-13,Tea,Beverages,51,20,1020,Sunday,July,No,Outlet A
+2025-07-13,Noodles,Fast Food,37,120,4440,Sunday,July,No,Outlet B
+2025-07-13,Sandwich,Snacks,36,100,3600,Sunday,July,No,Outlet A
+2025-07-13,Chicken Biryani,Rice,63,180,11340,Sunday,July,Yes,Outlet A
+2025-07-14,Noodles,Fast Food,35,120,4200,Monday,July,No,Outlet B
+2025-07-14,Sandwich,Snacks,32,100,3200,Monday,July,Yes,Outlet A
+2025-07-14,Chapati Set,Meals,36,90,3240,Monday,July,No,Outlet B
+2025-07-14,Idli,Breakfast,37,50,1850,Monday,July,No,Outlet C
+2025-07-14,Veg Biryani,Rice,40,140,5600,Monday,July,No,Outlet B
+2025-07-14,Tea,Beverages,50,20,1000,Monday,July,No,Outlet C
+2025-07-15,Veg Biryani,Rice,47,140,6580,Tuesday,July,No,Outlet A
+2025-07-15,Fresh Juice,Beverages,47,80,3760,Tuesday,July,No,Outlet C
+2025-07-15,Coffee,Beverages,43,30,1290,Tuesday,July,No,Outlet A
+2025-07-15,Chicken Biryani,Rice,47,180,8460,Tuesday,July,No,Outlet C
+2025-07-16,Coffee,Beverages,56,30,1680,Wednesday,July,No,Outlet C
+2025-07-16,Sandwich,Snacks,29,100,2900,Wednesday,July,No,Outlet C
+2025-07-16,Fried Rice,Rice,37,130,4810,Wednesday,July,No,Outlet A
+2025-07-16,Dosa,Breakfast,47,70,3290,Wednesday,July,No,Outlet B
+2025-07-17,Noodles,Fast Food,23,120,2760,Thursday,July,No,Outlet A
+2025-07-17,Tea,Beverages,63,20,1260,Thursday,July,No,Outlet C
+2025-07-17,Fresh Juice,Beverages,62,80,4960,Thursday,July,No,Outlet A
+2025-07-17,Chicken Biryani,Rice,34,180,6120,Thursday,July,No,Outlet C
+2025-07-17,Fried Rice,Rice,49,130,6370,Thursday,July,No,Outlet C
+2025-07-18,Chapati Set,Meals,26,90,2340,Friday,July,No,Outlet A
+2025-07-18,Veg Meals,Meals,39,120,4680,Friday,July,No,Outlet B
+2025-07-18,Dosa,Breakfast,44,70,3080,Friday,July,No,Outlet A
+2025-07-18,Noodles,Fast Food,40,120,4800,Friday,July,Yes,Outlet A
+2025-07-18,Coffee,Beverages,56,30,1680,Friday,July,No,Outlet B
+2025-07-18,Fresh Juice,Beverages,48,80,3840,Friday,July,No,Outlet C
+2025-07-18,Veg Biryani,Rice,38,140,5320,Friday,July,No,Outlet B
+2025-07-19,Coffee,Beverages,56,30,1680,Saturday,July,No,Outlet B
+2025-07-19,Fresh Juice,Beverages,77,80,6160,Saturday,July,No,Outlet B
+2025-07-19,Chicken Biryani,Rice,56,180,10080,Saturday,July,No,Outlet A
+2025-07-19,Tea,Beverages,53,20,1060,Saturday,July,No,Outlet A
+2025-07-19,Idli,Breakfast,53,50,2650,Saturday,July,No,Outlet B
+2025-07-19,Dosa,Breakfast,45,70,3150,Saturday,July,No,Outlet B
+2025-07-20,Fresh Juice,Beverages,64,80,5120,Sunday,July,No,Outlet B
+2025-07-20,Dosa,Breakfast,56,70,3920,Sunday,July,No,Outlet C
+2025-07-20,Fried Rice,Rice,36,130,4680,Sunday,July,No,Outlet A
+2025-07-20,Chapati Set,Meals,52,90,4680,Sunday,July,Yes,Outlet A
+2025-07-21,Coffee,Beverages,46,30,1380,Monday,July,No,Outlet B
+2025-07-21,Veg Biryani,Rice,41,140,5740,Monday,July,No,Outlet A
+2025-07-21,Veg Meals,Meals,38,120,4560,Monday,July,No,Outlet B
+2025-07-21,Fresh Juice,Beverages,47,80,3760,Monday,July,No,Outlet C
+2025-07-22,Noodles,Fast Food,25,120,3000,Tuesday,July,No,Outlet C
+2025-07-22,Veg Biryani,Rice,33,140,4620,Tuesday,July,No,Outlet C
+2025-07-22,Dosa,Breakfast,44,70,3080,Tuesday,July,No,Outlet C
+2025-07-22,Fried Rice,Rice,47,130,6110,Tuesday,July,Yes,Outlet A
+2025-07-22,Fresh Juice,Beverages,59,80,4720,Tuesday,July,Yes,Outlet C
+2025-07-22,Tea,Beverages,64,20,1280,Tuesday,July,No,Outlet C
+2025-07-22,Idli,Breakfast,56,50,2800,Tuesday,July,Yes,Outlet C
+2025-07-23,Tea,Beverages,45,20,900,Wednesday,July,No,Outlet C
+2025-07-23,Sandwich,Snacks,21,100,2100,Wednesday,July,No,Outlet C
+2025-07-23,Chicken Biryani,Rice,40,180,7200,Wednesday,July,No,Outlet B
+2025-07-23,Coffee,Beverages,60,30,1800,Wednesday,July,No,Outlet B
+2025-07-24,Noodles,Fast Food,37,120,4440,Thursday,July,Yes,Outlet A
+2025-07-24,Fried Rice,Rice,32,130,4160,Thursday,July,No,Outlet C
+2025-07-24,Chapati Set,Meals,32,90,2880,Thursday,July,No,Outlet A
+2025-07-24,Chicken Biryani,Rice,56,180,10080,Thursday,July,Yes,Outlet A
+2025-07-24,Fresh Juice,Beverages,44,80,3520,Thursday,July,No,Outlet A
+2025-07-25,Fresh Juice,Beverages,57,80,4560,Friday,July,No,Outlet B
+2025-07-25,Dosa,Breakfast,43,70,3010,Friday,July,No,Outlet B
+2025-07-25,Chapati Set,Meals,42,90,3780,Friday,July,No,Outlet B
+2025-07-25,Fried Rice,Rice,38,130,4940,Friday,July,No,Outlet C
+2025-07-25,Coffee,Beverages,51,30,1530,Friday,July,No,Outlet C
+2025-07-25,Veg Meals,Meals,42,120,5040,Friday,July,No,Outlet C
+2025-07-25,Chicken Biryani,Rice,44,180,7920,Friday,July,No,Outlet C
+2025-07-26,Fresh Juice,Beverages,81,80,6480,Saturday,July,Yes,Outlet B
+2025-07-26,Chicken Biryani,Rice,50,180,9000,Saturday,July,No,Outlet C
+2025-07-26,Dosa,Breakfast,44,70,3080,Saturday,July,No,Outlet C
+2025-07-26,Noodles,Fast Food,35,120,4200,Saturday,July,Yes,Outlet A
+2025-07-26,Veg Biryani,Rice,50,140,7000,Saturday,July,No,Outlet A
+2025-07-27,Idli,Breakfast,59,50,2950,Sunday,July,No,Outlet B
+2025-07-27,Dosa,Breakfast,54,70,3780,Sunday,July,No,Outlet C
+2025-07-27,Chapati Set,Meals,31,90,2790,Sunday,July,No,Outlet A
+2025-07-27,Chicken Biryani,Rice,46,180,8280,Sunday,July,No,Outlet A
+2025-07-28,Dosa,Breakfast,43,70,3010,Monday,July,Yes,Outlet A
+2025-07-28,Veg Meals,Meals,42,120,5040,Monday,July,No,Outlet A
+2025-07-28,Coffee,Beverages,63,30,1890,Monday,July,No,Outlet B
+2025-07-28,Tea,Beverages,52,20,1040,Monday,July,No,Outlet A
+2025-07-28,Sandwich,Snacks,31,100,3100,Monday,July,No,Outlet A
+2025-07-28,Idli,Breakfast,46,50,2300,Monday,July,No,Outlet C
+2025-07-29,Chapati Set,Meals,30,90,2700,Tuesday,July,No,Outlet B
+2025-07-29,Idli,Breakfast,46,50,2300,Tuesday,July,No,Outlet C
+2025-07-29,Dosa,Breakfast,55,70,3850,Tuesday,July,No,Outlet C
+2025-07-29,Coffee,Beverages,65,30,1950,Tuesday,July,No,Outlet C
+2025-07-29,Noodles,Fast Food,29,120,3480,Tuesday,July,No,Outlet B
+2025-07-29,Tea,Beverages,62,20,1240,Tuesday,July,No,Outlet B
+2025-07-30,Fresh Juice,Beverages,73,80,5840,Wednesday,July,Yes,Outlet A
+2025-07-30,Noodles,Fast Food,26,120,3120,Wednesday,July,No,Outlet B
+2025-07-30,Coffee,Beverages,51,30,1530,Wednesday,July,No,Outlet C
+2025-07-30,Veg Meals,Meals,50,120,6000,Wednesday,July,Yes,Outlet A
+2025-07-30,Sandwich,Snacks,27,100,2700,Wednesday,July,No,Outlet C
+2025-07-30,Tea,Beverages,43,20,860,Wednesday,July,No,Outlet A
+2025-07-30,Veg Biryani,Rice,37,140,5180,Wednesday,July,No,Outlet C
+2025-07-31,Veg Biryani,Rice,47,140,6580,Thursday,July,No,Outlet A
+2025-07-31,Fresh Juice,Beverages,64,80,5120,Thursday,July,No,Outlet C
+2025-07-31,Dosa,Breakfast,51,70,3570,Thursday,July,No,Outlet A
+2025-07-31,Noodles,Fast Food,33,120,3960,Thursday,July,No,Outlet C
+2025-07-31,Coffee,Beverages,41,30,1230,Thursday,July,No,Outlet C
+2025-07-31,Chicken Biryani,Rice,47,180,8460,Thursday,July,No,Outlet B
+2025-08-01,Noodles,Fast Food,27,120,3240,Friday,August,No,Outlet A
+2025-08-01,Coffee,Beverages,45,30,1350,Friday,August,No,Outlet C
+2025-08-01,Idli,Breakfast,45,50,2250,Friday,August,No,Outlet C
+2025-08-01,Sandwich,Snacks,32,100,3200,Friday,August,Yes,Outlet C
+2025-08-01,Veg Biryani,Rice,39,140,5460,Friday,August,No,Outlet A
+2025-08-01,Fried Rice,Rice,39,130,5070,Friday,August,No,Outlet C
+2025-08-02,Veg Meals,Meals,37,120,4440,Saturday,August,No,Outlet C
+2025-08-02,Fresh Juice,Beverages,55,80,4400,Saturday,August,No,Outlet B
+2025-08-02,Dosa,Breakfast,52,70,3640,Saturday,August,No,Outlet C
+2025-08-02,Fried Rice,Rice,40,130,5200,Saturday,August,No,Outlet B
+2025-08-03,Fried Rice,Rice,49,130,6370,Sunday,August,No,Outlet C
+2025-08-03,Chapati Set,Meals,46,90,4140,Sunday,August,No,Outlet C
+2025-08-03,Fresh Juice,Beverages,56,80,4480,Sunday,August,No,Outlet B
+2025-08-03,Sandwich,Snacks,28,100,2800,Sunday,August,No,Outlet C
+2025-08-03,Idli,Breakfast,77,50,3850,Sunday,August,Yes,Outlet A
+2025-08-04,Noodles,Fast Food,31,120,3720,Monday,August,No,Outlet C
+2025-08-04,Veg Biryani,Rice,40,140,5600,Monday,August,Yes,Outlet A
+2025-08-04,Tea,Beverages,80,20,1600,Monday,August,Yes,Outlet B
+2025-08-04,Coffee,Beverages,44,30,1320,Monday,August,No,Outlet C
+2025-08-04,Chapati Set,Meals,32,90,2880,Monday,August,No,Outlet C
+2025-08-04,Fried Rice,Rice,46,130,5980,Monday,August,No,Outlet B
+2025-08-04,Dosa,Breakfast,46,70,3220,Monday,August,Yes,Outlet C
+2025-08-05,Coffee,Beverages,60,30,1800,Tuesday,August,No,Outlet B
+2025-08-05,Sandwich,Snacks,27,100,2700,Tuesday,August,No,Outlet A
+2025-08-05,Tea,Beverages,49,20,980,Tuesday,August,No,Outlet C
+2025-08-05,Veg Biryani,Rice,47,140,6580,Tuesday,August,No,Outlet C
+2025-08-05,Idli,Breakfast,41,50,2050,Tuesday,August,No,Outlet C
+2025-08-06,Chicken Biryani,Rice,44,180,7920,Wednesday,August,No,Outlet C
+2025-08-06,Sandwich,Snacks,25,100,2500,Wednesday,August,No,Outlet B
+2025-08-06,Veg Biryani,Rice,49,140,6860,Wednesday,August,No,Outlet C
+2025-08-06,Chapati Set,Meals,42,90,3780,Wednesday,August,No,Outlet B
+2025-08-06,Dosa,Breakfast,66,70,4620,Wednesday,August,Yes,Outlet A
+2025-08-06,Coffee,Beverages,59,30,1770,Wednesday,August,No,Outlet C
+2025-08-06,Fried Rice,Rice,32,130,4160,Wednesday,August,No,Outlet A
+2025-08-07,Chicken Biryani,Rice,50,180,9000,Thursday,August,No,Outlet A
+2025-08-07,Sandwich,Snacks,23,100,2300,Thursday,August,No,Outlet C
+2025-08-07,Fresh Juice,Beverages,52,80,4160,Thursday,August,No,Outlet A
+2025-08-07,Noodles,Fast Food,27,120,3240,Thursday,August,No,Outlet C
+2025-08-07,Veg Meals,Meals,43,120,5160,Thursday,August,Yes,Outlet A
+2025-08-07,Tea,Beverages,74,20,1480,Thursday,August,Yes,Outlet B
+2025-08-07,Dosa,Breakfast,44,70,3080,Thursday,August,No,Outlet C
+2025-08-08,Tea,Beverages,59,20,1180,Friday,August,No,Outlet C
+2025-08-08,Noodles,Fast Food,29,120,3480,Friday,August,No,Outlet C
+2025-08-08,Veg Biryani,Rice,36,140,5040,Friday,August,No,Outlet B
+2025-08-08,Sandwich,Snacks,24,100,2400,Friday,August,No,Outlet A
+2025-08-08,Coffee,Beverages,51,30,1530,Friday,August,No,Outlet B
+2025-08-08,Idli,Breakfast,42,50,2100,Friday,August,Yes,Outlet C
+2025-08-09,Chapati Set,Meals,40,90,3600,Saturday,August,No,Outlet B
+2025-08-09,Idli,Breakfast,60,50,3000,Saturday,August,No,Outlet B
+2025-08-09,Noodles,Fast Food,41,120,4920,Saturday,August,No,Outlet C
+2025-08-09,Tea,Beverages,62,20,1240,Saturday,August,No,Outlet C
+2025-08-09,Veg Meals,Meals,35,120,4200,Saturday,August,No,Outlet C
+2025-08-10,Fried Rice,Rice,54,130,7020,Sunday,August,No,Outlet C
+2025-08-10,Dosa,Breakfast,58,70,4060,Sunday,August,No,Outlet B
+2025-08-10,Idli,Breakfast,54,50,2700,Sunday,August,No,Outlet B
+2025-08-10,Chicken Biryani,Rice,56,180,10080,Sunday,August,No,Outlet A
+2025-08-10,Sandwich,Snacks,33,100,3300,Sunday,August,Yes,Outlet B
+2025-08-10,Chapati Set,Meals,36,90,3240,Sunday,August,No,Outlet C
+2025-08-10,Tea,Beverages,59,20,1180,Sunday,August,No,Outlet A
+2025-08-11,Tea,Beverages,45,20,900,Monday,August,No,Outlet B
+2025-08-11,Veg Meals,Meals,29,120,3480,Monday,August,No,Outlet A
+2025-08-11,Veg Biryani,Rice,43,140,6020,Monday,August,Yes,Outlet B
+2025-08-11,Chicken Biryani,Rice,46,180,8280,Monday,August,No,Outlet B
+2025-08-12,Sandwich,Snacks,22,100,2200,Tuesday,August,No,Outlet B
+2025-08-12,Veg Meals,Meals,41,120,4920,Tuesday,August,No,Outlet B
+2025-08-12,Chapati Set,Meals,40,90,3600,Tuesday,August,No,Outlet A
+2025-08-12,Chicken Biryani,Rice,44,180,7920,Tuesday,August,No,Outlet B
+2025-08-12,Veg Biryani,Rice,39,140,5460,Tuesday,August,No,Outlet C
+2025-08-12,Fresh Juice,Beverages,47,80,3760,Tuesday,August,No,Outlet C
+2025-08-12,Noodles,Fast Food,30,120,3600,Tuesday,August,No,Outlet A
+2025-08-13,Fried Rice,Rice,61,130,7930,Wednesday,August,Yes,Outlet C
+2025-08-13,Fresh Juice,Beverages,68,80,5440,Wednesday,August,Yes,Outlet B
+2025-08-13,Idli,Breakfast,54,50,2700,Wednesday,August,No,Outlet C
+2025-08-13,Chapati Set,Meals,27,90,2430,Wednesday,August,No,Outlet C
+2025-08-13,Veg Biryani,Rice,30,140,4200,Wednesday,August,No,Outlet B
+2025-08-13,Tea,Beverages,52,20,1040,Wednesday,August,No,Outlet A
+2025-08-13,Sandwich,Snacks,27,100,2700,Wednesday,August,Yes,Outlet C
+2025-08-14,Sandwich,Snacks,31,100,3100,Thursday,August,No,Outlet B
+2025-08-14,Coffee,Beverages,69,30,2070,Thursday,August,No,Outlet C
+2025-08-14,Veg Biryani,Rice,46,140,6440,Thursday,August,Yes,Outlet A
+2025-08-14,Chapati Set,Meals,39,90,3510,Thursday,August,No,Outlet A
+2025-08-14,Chicken Biryani,Rice,36,180,6480,Thursday,August,No,Outlet C
+2025-08-14,Noodles,Fast Food,34,120,4080,Thursday,August,No,Outlet B
+2025-08-14,Fried Rice,Rice,30,130,3900,Thursday,August,No,Outlet B
+2025-08-15,Sandwich,Snacks,25,100,2500,Friday,August,No,Outlet C
+2025-08-15,Veg Biryani,Rice,41,140,5740,Friday,August,No,Outlet C
+2025-08-15,Idli,Breakfast,50,50,2500,Friday,August,No,Outlet B
+2025-08-15,Veg Meals,Meals,36,120,4320,Friday,August,No,Outlet C
+2025-08-15,Noodles,Fast Food,38,120,4560,Friday,August,Yes,Outlet B
+2025-08-15,Chapati Set,Meals,30,90,2700,Friday,August,No,Outlet B
+2025-08-16,Veg Meals,Meals,46,120,5520,Saturday,August,No,Outlet A
+2025-08-16,Fresh Juice,Beverages,51,80,4080,Saturday,August,No,Outlet C
+2025-08-16,Tea,Beverages,55,20,1100,Saturday,August,No,Outlet C
+2025-08-16,Fried Rice,Rice,48,130,6240,Saturday,August,No,Outlet C
+2025-08-16,Veg Biryani,Rice,45,140,6300,Saturday,August,No,Outlet B
+2025-08-16,Sandwich,Snacks,42,100,4200,Saturday,August,Yes,Outlet A
+2025-08-16,Idli,Breakfast,81,50,4050,Saturday,August,Yes,Outlet A
+2025-08-17,Dosa,Breakfast,69,70,4830,Sunday,August,Yes,Outlet B
+2025-08-17,Chicken Biryani,Rice,48,180,8640,Sunday,August,No,Outlet C
+2025-08-17,Noodles,Fast Food,27,120,3240,Sunday,August,No,Outlet A
+2025-08-17,Sandwich,Snacks,26,100,2600,Sunday,August,No,Outlet A
+2025-08-18,Chicken Biryani,Rice,31,180,5580,Monday,August,No,Outlet C
+2025-08-18,Noodles,Fast Food,23,120,2760,Monday,August,No,Outlet A
+2025-08-18,Veg Meals,Meals,27,120,3240,Monday,August,No,Outlet A
+2025-08-18,Chapati Set,Meals,27,90,2430,Monday,August,No,Outlet C
+2025-08-18,Fried Rice,Rice,38,130,4940,Monday,August,No,Outlet A
+2025-08-18,Fresh Juice,Beverages,48,80,3840,Monday,August,No,Outlet C
+2025-08-18,Veg Biryani,Rice,41,140,5740,Monday,August,No,Outlet C
+2025-08-19,Sandwich,Snacks,22,100,2200,Tuesday,August,No,Outlet A
+2025-08-19,Chicken Biryani,Rice,40,180,7200,Tuesday,August,No,Outlet C
+2025-08-19,Coffee,Beverages,86,30,2580,Tuesday,August,Yes,Outlet B
+2025-08-19,Chapati Set,Meals,41,90,3690,Tuesday,August,No,Outlet C
+2025-08-19,Noodles,Fast Food,27,120,3240,Tuesday,August,No,Outlet B
+2025-08-19,Tea,Beverages,59,20,1180,Tuesday,August,No,Outlet C
+2025-08-19,Fried Rice,Rice,35,130,4550,Tuesday,August,No,Outlet C
+2025-08-20,Fried Rice,Rice,38,130,4940,Wednesday,August,No,Outlet C
+2025-08-20,Tea,Beverages,61,20,1220,Wednesday,August,Yes,Outlet A
+2025-08-20,Idli,Breakfast,56,50,2800,Wednesday,August,No,Outlet B
+2025-08-20,Chapati Set,Meals,53,90,4770,Wednesday,August,Yes,Outlet A
+2025-08-20,Noodles,Fast Food,23,120,2760,Wednesday,August,No,Outlet C
+2025-08-21,Tea,Beverages,46,20,920,Thursday,August,No,Outlet B
+2025-08-21,Sandwich,Snacks,29,100,2900,Thursday,August,No,Outlet A
+2025-08-21,Fresh Juice,Beverages,50,80,4000,Thursday,August,No,Outlet C
+2025-08-21,Veg Biryani,Rice,48,140,6720,Thursday,August,No,Outlet C
+2025-08-21,Chicken Biryani,Rice,46,180,8280,Thursday,August,Yes,Outlet B
+2025-08-21,Veg Meals,Meals,49,120,5880,Thursday,August,Yes,Outlet C
+2025-08-22,Coffee,Beverages,57,30,1710,Friday,August,No,Outlet A
+2025-08-22,Fresh Juice,Beverages,67,80,5360,Friday,August,No,Outlet B
+2025-08-22,Idli,Breakfast,52,50,2600,Friday,August,No,Outlet B
+2025-08-22,Veg Meals,Meals,28,120,3360,Friday,August,No,Outlet A
+2025-08-23,Fresh Juice,Beverages,50,80,4000,Saturday,August,No,Outlet C
+2025-08-23,Sandwich,Snacks,30,100,3000,Saturday,August,No,Outlet C
+2025-08-23,Fried Rice,Rice,37,130,4810,Saturday,August,No,Outlet C
+2025-08-23,Veg Meals,Meals,50,120,6000,Saturday,August,No,Outlet C
+2025-08-24,Dosa,Breakfast,61,70,4270,Sunday,August,Yes,Outlet B
+2025-08-24,Fried Rice,Rice,37,130,4810,Sunday,August,No,Outlet B
+2025-08-24,Idli,Breakfast,50,50,2500,Sunday,August,No,Outlet B
+2025-08-24,Fresh Juice,Beverages,53,80,4240,Sunday,August,No,Outlet A
+2025-08-25,Tea,Beverages,56,20,1120,Monday,August,No,Outlet A
+2025-08-25,Dosa,Breakfast,64,70,4480,Monday,August,Yes,Outlet B
+2025-08-25,Noodles,Fast Food,31,120,3720,Monday,August,No,Outlet A
+2025-08-25,Fried Rice,Rice,38,130,4940,Monday,August,No,Outlet B
+2025-08-25,Fresh Juice,Beverages,51,80,4080,Monday,August,No,Outlet C
+2025-08-25,Idli,Breakfast,51,50,2550,Monday,August,Yes,Outlet B
+2025-08-25,Sandwich,Snacks,35,100,3500,Monday,August,No,Outlet B
+2025-08-26,Noodles,Fast Food,42,120,5040,Tuesday,August,Yes,Outlet A
+2025-08-26,Veg Meals,Meals,33,120,3960,Tuesday,August,Yes,Outlet C
+2025-08-26,Dosa,Breakfast,53,70,3710,Tuesday,August,No,Outlet B
+2025-08-26,Coffee,Beverages,75,30,2250,Tuesday,August,Yes,Outlet A
+2025-08-26,Chapati Set,Meals,34,90,3060,Tuesday,August,No,Outlet B
+2025-08-27,Sandwich,Snacks,30,100,3000,Wednesday,August,No,Outlet A
+2025-08-27,Tea,Beverages,60,20,1200,Wednesday,August,No,Outlet B
+2025-08-27,Dosa,Breakfast,49,70,3430,Wednesday,August,No,Outlet A
+2025-08-27,Coffee,Beverages,43,30,1290,Wednesday,August,No,Outlet A
+2025-08-27,Idli,Breakfast,48,50,2400,Wednesday,August,No,Outlet A
+2025-08-28,Fresh Juice,Beverages,44,80,3520,Thursday,August,No,Outlet B
+2025-08-28,Veg Meals,Meals,37,120,4440,Thursday,August,No,Outlet A
+2025-08-28,Chicken Biryani,Rice,40,180,7200,Thursday,August,No,Outlet C
+2025-08-28,Fried Rice,Rice,45,130,5850,Thursday,August,Yes,Outlet C
+2025-08-28,Idli,Breakfast,38,50,1900,Thursday,August,No,Outlet C
+2025-08-28,Chapati Set,Meals,35,90,3150,Thursday,August,No,Outlet C
+2025-08-28,Tea,Beverages,60,20,1200,Thursday,August,Yes,Outlet C
+2025-08-29,Chapati Set,Meals,32,90,2880,Friday,August,No,Outlet B
+2025-08-29,Noodles,Fast Food,37,120,4440,Friday,August,No,Outlet C
+2025-08-29,Fried Rice,Rice,31,130,4030,Friday,August,No,Outlet B
+2025-08-29,Veg Biryani,Rice,48,140,6720,Friday,August,No,Outlet A
+2025-08-29,Veg Meals,Meals,42,120,5040,Friday,August,No,Outlet A
+2025-08-29,Tea,Beverages,82,20,1640,Friday,August,Yes,Outlet C
+2025-08-30,Chicken Biryani,Rice,39,180,7020,Saturday,August,No,Outlet B
+2025-08-30,Fried Rice,Rice,43,130,5590,Saturday,August,No,Outlet C
+2025-08-30,Tea,Beverages,87,20,1740,Saturday,August,Yes,Outlet C
+2025-08-30,Dosa,Breakfast,61,70,4270,Saturday,August,No,Outlet A
+2025-08-30,Fresh Juice,Beverages,72,80,5760,Saturday,August,No,Outlet C
+2025-08-31,Fried Rice,Rice,60,130,7800,Sunday,August,Yes,Outlet C
+2025-08-31,Veg Biryani,Rice,54,140,7560,Sunday,August,Yes,Outlet A
+2025-08-31,Coffee,Beverages,74,30,2220,Sunday,August,No,Outlet B
+2025-08-31,Fresh Juice,Beverages,59,80,4720,Sunday,August,No,Outlet C
+2025-08-31,Chapati Set,Meals,48,90,4320,Sunday,August,No,Outlet C
+2025-09-01,Veg Biryani,Rice,42,140,5880,Monday,September,No,Outlet B
+2025-09-01,Dosa,Breakfast,48,70,3360,Monday,September,No,Outlet C
+2025-09-01,Chicken Biryani,Rice,44,180,7920,Monday,September,No,Outlet B
+2025-09-01,Sandwich,Snacks,40,100,4000,Monday,September,Yes,Outlet A
+2025-09-01,Tea,Beverages,58,20,1160,Monday,September,No,Outlet C
+2025-09-01,Veg Meals,Meals,29,120,3480,Monday,September,No,Outlet B
+2025-09-02,Noodles,Fast Food,23,120,2760,Tuesday,September,No,Outlet B
+2025-09-02,Veg Biryani,Rice,34,140,4760,Tuesday,September,No,Outlet C
+2025-09-02,Fresh Juice,Beverages,62,80,4960,Tuesday,September,No,Outlet A
+2025-09-02,Dosa,Breakfast,69,70,4830,Tuesday,September,Yes,Outlet B
+2025-09-02,Tea,Beverages,55,20,1100,Tuesday,September,No,Outlet B
+2025-09-02,Veg Meals,Meals,41,120,4920,Tuesday,September,No,Outlet B
+2025-09-02,Sandwich,Snacks,22,100,2200,Tuesday,September,No,Outlet C
+2025-09-03,Sandwich,Snacks,33,100,3300,Wednesday,September,No,Outlet A
+2025-09-03,Chapati Set,Meals,30,90,2700,Wednesday,September,No,Outlet C
+2025-09-03,Fried Rice,Rice,45,130,5850,Wednesday,September,No,Outlet C
+2025-09-03,Tea,Beverages,62,20,1240,Wednesday,September,No,Outlet A
+2025-09-03,Veg Meals,Meals,33,120,3960,Wednesday,September,No,Outlet B
+2025-09-03,Idli,Breakfast,40,50,2000,Wednesday,September,No,Outlet A
+2025-09-03,Noodles,Fast Food,32,120,3840,Wednesday,September,No,Outlet A
+2025-09-04,Noodles,Fast Food,39,120,4680,Thursday,September,Yes,Outlet C
+2025-09-04,Fresh Juice,Beverages,52,80,4160,Thursday,September,No,Outlet B
+2025-09-04,Sandwich,Snacks,24,100,2400,Thursday,September,No,Outlet C
+2025-09-04,Chicken Biryani,Rice,48,180,8640,Thursday,September,No,Outlet B
+2025-09-04,Tea,Beverages,63,20,1260,Thursday,September,Yes,Outlet C
+2025-09-05,Sandwich,Snacks,22,100,2200,Friday,September,No,Outlet C
+2025-09-05,Chicken Biryani,Rice,46,180,8280,Friday,September,No,Outlet C
+2025-09-05,Fresh Juice,Beverages,46,80,3680,Friday,September,No,Outlet C
+2025-09-05,Coffee,Beverages,62,30,1860,Friday,September,No,Outlet B
+2025-09-05,Noodles,Fast Food,32,120,3840,Friday,September,No,Outlet A
+2025-09-06,Veg Biryani,Rice,54,140,7560,Saturday,September,No,Outlet B
+2025-09-06,Sandwich,Snacks,28,100,2800,Saturday,September,No,Outlet A
+2025-09-06,Veg Meals,Meals,30,120,3600,Saturday,September,No,Outlet B
+2025-09-06,Fried Rice,Rice,59,130,7670,Saturday,September,Yes,Outlet B
+2025-09-06,Idli,Breakfast,40,50,2000,Saturday,September,No,Outlet B
+2025-09-07,Dosa,Breakfast,56,70,3920,Sunday,September,No,Outlet A
+2025-09-07,Coffee,Beverages,66,30,1980,Sunday,September,No,Outlet C
+2025-09-07,Noodles,Fast Food,41,120,4920,Sunday,September,No,Outlet A
+2025-09-07,Fresh Juice,Beverages,67,80,5360,Sunday,September,Yes,Outlet C
+2025-09-07,Fried Rice,Rice,39,130,5070,Sunday,September,No,Outlet A
+2025-09-08,Chapati Set,Meals,38,90,3420,Monday,September,Yes,Outlet C
+2025-09-08,Chicken Biryani,Rice,42,180,7560,Monday,September,No,Outlet C
+2025-09-08,Veg Meals,Meals,42,120,5040,Monday,September,Yes,Outlet C
+2025-09-08,Fresh Juice,Beverages,42,80,3360,Monday,September,No,Outlet B
+2025-09-08,Fried Rice,Rice,48,130,6240,Monday,September,No,Outlet A
+2025-09-08,Tea,Beverages,64,20,1280,Monday,September,No,Outlet A
+2025-09-09,Noodles,Fast Food,26,120,3120,Tuesday,September,No,Outlet A
+2025-09-09,Veg Biryani,Rice,32,140,4480,Tuesday,September,No,Outlet C
+2025-09-09,Chicken Biryani,Rice,41,180,7380,Tuesday,September,No,Outlet A
+2025-09-09,Idli,Breakfast,49,50,2450,Tuesday,September,No,Outlet C
+2025-09-09,Chapati Set,Meals,36,90,3240,Tuesday,September,No,Outlet B
+2025-09-09,Tea,Beverages,57,20,1140,Tuesday,September,No,Outlet C
+2025-09-10,Veg Biryani,Rice,48,140,6720,Wednesday,September,No,Outlet A
+2025-09-10,Coffee,Beverages,68,30,2040,Wednesday,September,No,Outlet A
+2025-09-10,Fresh Juice,Beverages,68,80,5440,Wednesday,September,Yes,Outlet A
+2025-09-10,Noodles,Fast Food,26,120,3120,Wednesday,September,No,Outlet C
+2025-09-10,Tea,Beverages,53,20,1060,Wednesday,September,No,Outlet B
+2025-09-10,Dosa,Breakfast,52,70,3640,Wednesday,September,No,Outlet A
+2025-09-11,Fresh Juice,Beverages,50,80,4000,Thursday,September,No,Outlet C
+2025-09-11,Dosa,Breakfast,51,70,3570,Thursday,September,No,Outlet A
+2025-09-11,Idli,Breakfast,41,50,2050,Thursday,September,No,Outlet C
+2025-09-11,Coffee,Beverages,68,30,2040,Thursday,September,No,Outlet A
+2025-09-12,Chapati Set,Meals,34,90,3060,Friday,September,No,Outlet C
+2025-09-12,Sandwich,Snacks,33,100,3300,Friday,September,No,Outlet B
+2025-09-12,Noodles,Fast Food,35,120,4200,Friday,September,No,Outlet C
+2025-09-12,Coffee,Beverages,69,30,2070,Friday,September,Yes,Outlet C
+2025-09-12,Veg Meals,Meals,31,120,3720,Friday,September,No,Outlet C
+2025-09-13,Dosa,Breakfast,55,70,3850,Saturday,September,Yes,Outlet A
+2025-09-13,Coffee,Beverages,61,30,1830,Saturday,September,No,Outlet C
+2025-09-13,Chapati Set,Meals,42,90,3780,Saturday,September,No,Outlet B
+2025-09-13,Fresh Juice,Beverages,52,80,4160,Saturday,September,No,Outlet B
+2025-09-14,Sandwich,Snacks,31,100,3100,Sunday,September,No,Outlet B
+2025-09-14,Veg Meals,Meals,36,120,4320,Sunday,September,No,Outlet A
+2025-09-14,Idli,Breakfast,41,50,2050,Sunday,September,No,Outlet A
+2025-09-14,Fried Rice,Rice,46,130,5980,Sunday,September,No,Outlet A
+2025-09-14,Chicken Biryani,Rice,57,180,10260,Sunday,September,No,Outlet A
+2025-09-14,Dosa,Breakfast,64,70,4480,Sunday,September,No,Outlet C
+2025-09-15,Chapati Set,Meals,33,90,2970,Monday,September,No,Outlet C
+2025-09-15,Veg Biryani,Rice,32,140,4480,Monday,September,No,Outlet B
+2025-09-15,Chicken Biryani,Rice,44,180,7920,Monday,September,No,Outlet C
+2025-09-15,Tea,Beverages,50,20,1000,Monday,September,No,Outlet A
+2025-09-15,Fresh Juice,Beverages,78,80,6240,Monday,September,Yes,Outlet C
+2025-09-15,Coffee,Beverages,57,30,1710,Monday,September,No,Outlet B
+2025-09-16,Chapati Set,Meals,39,90,3510,Tuesday,September,No,Outlet C
+2025-09-16,Dosa,Breakfast,46,70,3220,Tuesday,September,Yes,Outlet B
+2025-09-16,Fresh Juice,Beverages,85,80,6800,Tuesday,September,Yes,Outlet C
+2025-09-16,Idli,Breakfast,38,50,1900,Tuesday,September,No,Outlet B
+2025-09-16,Tea,Beverages,49,20,980,Tuesday,September,No,Outlet C
+2025-09-17,Coffee,Beverages,56,30,1680,Wednesday,September,No,Outlet A
+2025-09-17,Dosa,Breakfast,55,70,3850,Wednesday,September,Yes,Outlet C
+2025-09-17,Veg Biryani,Rice,47,140,6580,Wednesday,September,Yes,Outlet A
+2025-09-17,Chicken Biryani,Rice,34,180,6120,Wednesday,September,No,Outlet C
+2025-09-17,Idli,Breakfast,48,50,2400,Wednesday,September,No,Outlet C
+2025-09-17,Noodles,Fast Food,32,120,3840,Wednesday,September,No,Outlet B
+2025-09-18,Dosa,Breakfast,65,70,4550,Thursday,September,Yes,Outlet C
+2025-09-18,Fresh Juice,Beverages,54,80,4320,Thursday,September,No,Outlet C
+2025-09-18,Tea,Beverages,62,20,1240,Thursday,September,No,Outlet B
+2025-09-18,Chicken Biryani,Rice,34,180,6120,Thursday,September,No,Outlet C
+2025-09-18,Noodles,Fast Food,28,120,3360,Thursday,September,No,Outlet A
+2025-09-18,Idli,Breakfast,49,50,2450,Thursday,September,No,Outlet B
+2025-09-19,Noodles,Fast Food,25,120,3000,Friday,September,No,Outlet B
+2025-09-19,Veg Meals,Meals,28,120,3360,Friday,September,No,Outlet A
+2025-09-19,Chicken Biryani,Rice,44,180,7920,Friday,September,No,Outlet A
+2025-09-19,Sandwich,Snacks,30,100,3000,Friday,September,No,Outlet B
+2025-09-19,Coffee,Beverages,52,30,1560,Friday,September,No,Outlet B
+2025-09-19,Veg Biryani,Rice,35,140,4900,Friday,September,No,Outlet A
+2025-09-19,Dosa,Breakfast,42,70,2940,Friday,September,No,Outlet B
+2025-09-20,Sandwich,Snacks,29,100,2900,Saturday,September,No,Outlet C
+2025-09-20,Coffee,Beverages,73,30,2190,Saturday,September,No,Outlet C
+2025-09-20,Fried Rice,Rice,47,130,6110,Saturday,September,No,Outlet C
+2025-09-20,Fresh Juice,Beverages,59,80,4720,Saturday,September,No,Outlet A
+2025-09-20,Chapati Set,Meals,34,90,3060,Saturday,September,No,Outlet B
+2025-09-21,Coffee,Beverages,70,30,2100,Sunday,September,No,Outlet A
+2025-09-21,Chicken Biryani,Rice,68,180,12240,Sunday,September,Yes,Outlet C
+2025-09-21,Sandwich,Snacks,35,100,3500,Sunday,September,No,Outlet A
+2025-09-21,Fried Rice,Rice,51,130,6630,Sunday,September,No,Outlet B
+2025-09-22,Fried Rice,Rice,36,130,4680,Monday,September,No,Outlet C
+2025-09-22,Coffee,Beverages,60,30,1800,Monday,September,No,Outlet B
+2025-09-22,Fresh Juice,Beverages,66,80,5280,Monday,September,No,Outlet A
+2025-09-22,Noodles,Fast Food,32,120,3840,Monday,September,No,Outlet C
+2025-09-22,Dosa,Breakfast,37,70,2590,Monday,September,No,Outlet B
+2025-09-22,Chicken Biryani,Rice,60,180,10800,Monday,September,Yes,Outlet A
+2025-09-23,Sandwich,Snacks,33,100,3300,Tuesday,September,No,Outlet A
+2025-09-23,Tea,Beverages,57,20,1140,Tuesday,September,No,Outlet C
+2025-09-23,Chapati Set,Meals,32,90,2880,Tuesday,September,No,Outlet B
+2025-09-23,Chicken Biryani,Rice,34,180,6120,Tuesday,September,No,Outlet A
+2025-09-24,Veg Biryani,Rice,62,140,8680,Wednesday,September,Yes,Outlet C
+2025-09-24,Dosa,Breakfast,43,70,3010,Wednesday,September,Yes,Outlet C
+2025-09-24,Tea,Beverages,76,20,1520,Wednesday,September,Yes,Outlet B
+2025-09-24,Fried Rice,Rice,49,130,6370,Wednesday,September,No,Outlet A
+2025-09-24,Chapati Set,Meals,46,90,4140,Wednesday,September,Yes,Outlet B
+2025-09-24,Coffee,Beverages,66,30,1980,Wednesday,September,No,Outlet C
+2025-09-24,Fresh Juice,Beverages,53,80,4240,Wednesday,September,No,Outlet A
+2025-09-25,Tea,Beverages,58,20,1160,Thursday,September,No,Outlet C
+2025-09-25,Fried Rice,Rice,45,130,5850,Thursday,September,No,Outlet C
+2025-09-25,Sandwich,Snacks,27,100,2700,Thursday,September,No,Outlet C
+2025-09-25,Noodles,Fast Food,23,120,2760,Thursday,September,No,Outlet A
+2025-09-25,Fresh Juice,Beverages,61,80,4880,Thursday,September,No,Outlet A
+2025-09-25,Veg Biryani,Rice,49,140,6860,Thursday,September,No,Outlet A
+2025-09-25,Chicken Biryani,Rice,56,180,10080,Thursday,September,Yes,Outlet B
+2025-09-26,Tea,Beverages,68,20,1360,Friday,September,No,Outlet A
+2025-09-26,Chicken Biryani,Rice,41,180,7380,Friday,September,No,Outlet C
+2025-09-26,Sandwich,Snacks,22,100,2200,Friday,September,No,Outlet B
+2025-09-26,Fresh Juice,Beverages,42,80,3360,Friday,September,No,Outlet B
+2025-09-26,Dosa,Breakfast,44,70,3080,Friday,September,No,Outlet C
+2025-09-26,Noodles,Fast Food,28,120,3360,Friday,September,No,Outlet B
+2025-09-26,Chapati Set,Meals,26,90,2340,Friday,September,No,Outlet C
+2025-09-27,Sandwich,Snacks,32,100,3200,Saturday,September,Yes,Outlet B
+2025-09-27,Coffee,Beverages,69,30,2070,Saturday,September,No,Outlet B
+2025-09-27,Idli,Breakfast,43,50,2150,Saturday,September,No,Outlet A
+2025-09-27,Veg Meals,Meals,36,120,4320,Saturday,September,No,Outlet A
+2025-09-27,Noodles,Fast Food,31,120,3720,Saturday,September,No,Outlet B
+2025-09-27,Fresh Juice,Beverages,65,80,5200,Saturday,September,Yes,Outlet A
+2025-09-28,Fresh Juice,Beverages,56,80,4480,Sunday,September,No,Outlet A
+2025-09-28,Noodles,Fast Food,42,120,5040,Sunday,September,No,Outlet B
+2025-09-28,Chapati Set,Meals,49,90,4410,Sunday,September,No,Outlet C
+2025-09-28,Veg Biryani,Rice,39,140,5460,Sunday,September,No,Outlet B
+2025-09-28,Idli,Breakfast,51,50,2550,Sunday,September,No,Outlet B
+2025-09-29,Fresh Juice,Beverages,61,80,4880,Monday,September,Yes,Outlet A
+2025-09-29,Noodles,Fast Food,37,120,4440,Monday,September,Yes,Outlet B
+2025-09-29,Veg Biryani,Rice,45,140,6300,Monday,September,No,Outlet C
+2025-09-29,Dosa,Breakfast,49,70,3430,Monday,September,No,Outlet B
+2025-09-29,Chapati Set,Meals,28,90,2520,Monday,September,No,Outlet B
+2025-09-30,Idli,Breakfast,49,50,2450,Tuesday,September,No,Outlet A
+2025-09-30,Noodles,Fast Food,38,120,4560,Tuesday,September,Yes,Outlet B
+2025-09-30,Fried Rice,Rice,39,130,5070,Tuesday,September,No,Outlet C
+2025-09-30,Chapati Set,Meals,31,90,2790,Tuesday,September,No,Outlet B
+2025-10-01,Idli,Breakfast,49,50,2450,Wednesday,October,No,Outlet A
+2025-10-01,Fresh Juice,Beverages,57,80,4560,Wednesday,October,No,Outlet A
+2025-10-01,Coffee,Beverages,60,30,1800,Wednesday,October,No,Outlet A
+2025-10-01,Fried Rice,Rice,35,130,4550,Wednesday,October,No,Outlet A
+2025-10-02,Veg Meals,Meals,48,120,5760,Thursday,October,Yes,Outlet A
+2025-10-02,Fried Rice,Rice,40,130,5200,Thursday,October,No,Outlet A
+2025-10-02,Chicken Biryani,Rice,46,180,8280,Thursday,October,Yes,Outlet C
+2025-10-02,Tea,Beverages,64,20,1280,Thursday,October,No,Outlet C
+2025-10-03,Sandwich,Snacks,32,100,3200,Friday,October,No,Outlet C
+2025-10-03,Chicken Biryani,Rice,57,180,10260,Friday,October,No,Outlet A
+2025-10-03,Fresh Juice,Beverages,48,80,3840,Friday,October,No,Outlet B
+2025-10-03,Veg Biryani,Rice,36,140,5040,Friday,October,No,Outlet B
+2025-10-04,Fried Rice,Rice,77,130,10010,Saturday,October,Yes,Outlet B
+2025-10-04,Fresh Juice,Beverages,81,80,6480,Saturday,October,No,Outlet B
+2025-10-04,Chapati Set,Meals,41,90,3690,Saturday,October,No,Outlet B
+2025-10-04,Idli,Breakfast,82,50,4100,Saturday,October,Yes,Outlet A
+2025-10-04,Veg Biryani,Rice,46,140,6440,Saturday,October,No,Outlet B
+2025-10-04,Sandwich,Snacks,42,100,4200,Saturday,October,Yes,Outlet B
+2025-10-05,Coffee,Beverages,64,30,1920,Sunday,October,Yes,Outlet C
+2025-10-05,Fresh Juice,Beverages,74,80,5920,Sunday,October,No,Outlet A
+2025-10-05,Chicken Biryani,Rice,45,180,8100,Sunday,October,No,Outlet C
+2025-10-05,Noodles,Fast Food,34,120,4080,Sunday,October,Yes,Outlet B
+2025-10-05,Idli,Breakfast,58,50,2900,Sunday,October,No,Outlet B
+2025-10-06,Tea,Beverages,61,20,1220,Monday,October,No,Outlet A
+2025-10-06,Noodles,Fast Food,23,120,2760,Monday,October,No,Outlet C
+2025-10-06,Fresh Juice,Beverages,55,80,4400,Monday,October,No,Outlet C
+2025-10-06,Fried Rice,Rice,57,130,7410,Monday,October,No,Outlet B
+2025-10-07,Fried Rice,Rice,52,130,6760,Tuesday,October,No,Outlet B
+2025-10-07,Veg Meals,Meals,33,120,3960,Tuesday,October,No,Outlet A
+2025-10-07,Chicken Biryani,Rice,50,180,9000,Tuesday,October,No,Outlet B
+2025-10-07,Chapati Set,Meals,47,90,4230,Tuesday,October,No,Outlet C
+2025-10-07,Tea,Beverages,55,20,1100,Tuesday,October,No,Outlet C
+2025-10-07,Fresh Juice,Beverages,46,80,3680,Tuesday,October,No,Outlet A
+2025-10-08,Veg Meals,Meals,50,120,6000,Wednesday,October,Yes,Outlet B
+2025-10-08,Coffee,Beverages,68,30,2040,Wednesday,October,No,Outlet B
+2025-10-08,Dosa,Breakfast,34,70,2380,Wednesday,October,No,Outlet B
+2025-10-08,Noodles,Fast Food,43,120,5160,Wednesday,October,Yes,Outlet A
+2025-10-08,Fried Rice,Rice,39,130,5070,Wednesday,October,No,Outlet C
+2025-10-09,Fresh Juice,Beverages,74,80,5920,Thursday,October,Yes,Outlet B
+2025-10-09,Tea,Beverages,58,20,1160,Thursday,October,No,Outlet A
+2025-10-09,Veg Biryani,Rice,38,140,5320,Thursday,October,No,Outlet A
+2025-10-09,Dosa,Breakfast,54,70,3780,Thursday,October,No,Outlet A
+2025-10-09,Chicken Biryani,Rice,38,180,6840,Thursday,October,No,Outlet C
+2025-10-09,Veg Meals,Meals,57,120,6840,Thursday,October,Yes,Outlet A
+2025-10-09,Chapati Set,Meals,45,90,4050,Thursday,October,No,Outlet A
+2025-10-10,Dosa,Breakfast,56,70,3920,Friday,October,No,Outlet C
+2025-10-10,Fried Rice,Rice,42,130,5460,Friday,October,No,Outlet A
+2025-10-10,Chapati Set,Meals,41,90,3690,Friday,October,No,Outlet B
+2025-10-10,Fresh Juice,Beverages,61,80,4880,Friday,October,Yes,Outlet B
+2025-10-11,Sandwich,Snacks,34,100,3400,Saturday,October,No,Outlet A
+2025-10-11,Chapati Set,Meals,68,90,6120,Saturday,October,Yes,Outlet C
+2025-10-11,Tea,Beverages,54,20,1080,Saturday,October,No,Outlet B
+2025-10-11,Veg Biryani,Rice,51,140,7140,Saturday,October,Yes,Outlet A
+2025-10-11,Noodles,Fast Food,37,120,4440,Saturday,October,No,Outlet B
+2025-10-12,Sandwich,Snacks,32,100,3200,Sunday,October,No,Outlet A
+2025-10-12,Noodles,Fast Food,27,120,3240,Sunday,October,No,Outlet A
+2025-10-12,Veg Biryani,Rice,57,140,7980,Sunday,October,No,Outlet A
+2025-10-12,Dosa,Breakfast,61,70,4270,Sunday,October,No,Outlet B
+2025-10-12,Coffee,Beverages,67,30,2010,Sunday,October,No,Outlet A
+2025-10-12,Chapati Set,Meals,59,90,5310,Sunday,October,Yes,Outlet A
+2025-10-12,Fresh Juice,Beverages,77,80,6160,Sunday,October,No,Outlet C
+2025-10-13,Noodles,Fast Food,34,120,4080,Monday,October,No,Outlet C
+2025-10-13,Fresh Juice,Beverages,66,80,5280,Monday,October,No,Outlet B
+2025-10-13,Dosa,Breakfast,61,70,4270,Monday,October,Yes,Outlet A
+2025-10-13,Idli,Breakfast,52,50,2600,Monday,October,Yes,Outlet A
+2025-10-13,Veg Meals,Meals,36,120,4320,Monday,October,No,Outlet B
+2025-10-14,Chicken Biryani,Rice,44,180,7920,Tuesday,October,Yes,Outlet C
+2025-10-14,Veg Meals,Meals,59,120,7080,Tuesday,October,Yes,Outlet C
+2025-10-14,Tea,Beverages,57,20,1140,Tuesday,October,No,Outlet B
+2025-10-14,Veg Biryani,Rice,50,140,7000,Tuesday,October,No,Outlet B
+2025-10-15,Chicken Biryani,Rice,55,180,9900,Wednesday,October,No,Outlet B
+2025-10-15,Chapati Set,Meals,31,90,2790,Wednesday,October,No,Outlet C
+2025-10-15,Dosa,Breakfast,54,70,3780,Wednesday,October,No,Outlet A
+2025-10-15,Sandwich,Snacks,30,100,3000,Wednesday,October,No,Outlet A
+2025-10-15,Coffee,Beverages,45,30,1350,Wednesday,October,No,Outlet C
+2025-10-16,Fresh Juice,Beverages,75,80,6000,Thursday,October,Yes,Outlet A
+2025-10-16,Chapati Set,Meals,31,90,2790,Thursday,October,No,Outlet B
+2025-10-16,Idli,Breakfast,38,50,1900,Thursday,October,No,Outlet B
+2025-10-16,Dosa,Breakfast,40,70,2800,Thursday,October,No,Outlet A
+2025-10-16,Sandwich,Snacks,30,100,3000,Thursday,October,No,Outlet C
+2025-10-17,Coffee,Beverages,55,30,1650,Friday,October,No,Outlet A
+2025-10-17,Tea,Beverages,64,20,1280,Friday,October,No,Outlet B
+2025-10-17,Dosa,Breakfast,54,70,3780,Friday,October,Yes,Outlet A
+2025-10-17,Chicken Biryani,Rice,44,180,7920,Friday,October,No,Outlet A
+2025-10-17,Fried Rice,Rice,48,130,6240,Friday,October,No,Outlet A
+2025-10-18,Fried Rice,Rice,54,130,7020,Saturday,October,No,Outlet B
+2025-10-18,Veg Meals,Meals,46,120,5520,Saturday,October,No,Outlet C
+2025-10-18,Fresh Juice,Beverages,63,80,5040,Saturday,October,No,Outlet A
+2025-10-18,Noodles,Fast Food,50,120,6000,Saturday,October,Yes,Outlet C
+2025-10-19,Dosa,Breakfast,72,70,5040,Sunday,October,Yes,Outlet A
+2025-10-19,Veg Biryani,Rice,64,140,8960,Sunday,October,No,Outlet C
+2025-10-19,Chapati Set,Meals,57,90,5130,Sunday,October,No,Outlet B
+2025-10-19,Idli,Breakfast,63,50,3150,Sunday,October,No,Outlet B
+2025-10-19,Sandwich,Snacks,39,100,3900,Sunday,October,No,Outlet C
+2025-10-19,Coffee,Beverages,69,30,2070,Sunday,October,No,Outlet C
+2025-10-19,Veg Meals,Meals,69,120,8280,Sunday,October,Yes,Outlet B
+2025-10-20,Idli,Breakfast,38,50,1900,Monday,October,No,Outlet C
+2025-10-20,Fried Rice,Rice,68,130,8840,Monday,October,Yes,Outlet C
+2025-10-20,Sandwich,Snacks,28,100,2800,Monday,October,No,Outlet C
+2025-10-20,Tea,Beverages,43,20,860,Monday,October,No,Outlet B
+2025-10-21,Noodles,Fast Food,33,120,3960,Tuesday,October,No,Outlet C
+2025-10-21,Coffee,Beverages,47,30,1410,Tuesday,October,No,Outlet B
+2025-10-21,Veg Meals,Meals,32,120,3840,Tuesday,October,No,Outlet B
+2025-10-21,Chapati Set,Meals,44,90,3960,Tuesday,October,No,Outlet C
+2025-10-21,Tea,Beverages,62,20,1240,Tuesday,October,No,Outlet A
+2025-10-21,Chicken Biryani,Rice,55,180,9900,Tuesday,October,No,Outlet C
+2025-10-22,Idli,Breakfast,52,50,2600,Wednesday,October,No,Outlet B
+2025-10-22,Veg Meals,Meals,43,120,5160,Wednesday,October,No,Outlet C
+2025-10-22,Chicken Biryani,Rice,45,180,8100,Wednesday,October,No,Outlet B
+2025-10-22,Chapati Set,Meals,48,90,4320,Wednesday,October,No,Outlet A
+2025-10-22,Tea,Beverages,66,20,1320,Wednesday,October,No,Outlet A
+2025-10-22,Dosa,Breakfast,67,70,4690,Wednesday,October,Yes,Outlet B
+2025-10-22,Fried Rice,Rice,36,130,4680,Wednesday,October,No,Outlet A
+2025-10-23,Chicken Biryani,Rice,35,180,6300,Thursday,October,No,Outlet B
+2025-10-23,Veg Biryani,Rice,47,140,6580,Thursday,October,No,Outlet A
+2025-10-23,Noodles,Fast Food,29,120,3480,Thursday,October,No,Outlet C
+2025-10-23,Fresh Juice,Beverages,49,80,3920,Thursday,October,No,Outlet A
+2025-10-23,Dosa,Breakfast,65,70,4550,Thursday,October,Yes,Outlet C
+2025-10-23,Idli,Breakfast,43,50,2150,Thursday,October,No,Outlet B
+2025-10-24,Noodles,Fast Food,24,120,2880,Friday,October,No,Outlet B
+2025-10-24,Coffee,Beverages,61,30,1830,Friday,October,Yes,Outlet B
+2025-10-24,Tea,Beverages,49,20,980,Friday,October,No,Outlet A
+2025-10-24,Fresh Juice,Beverages,61,80,4880,Friday,October,Yes,Outlet A
+2025-10-24,Sandwich,Snacks,23,100,2300,Friday,October,No,Outlet C
+2025-10-24,Dosa,Breakfast,56,70,3920,Friday,October,No,Outlet C
+2025-10-25,Veg Biryani,Rice,53,140,7420,Saturday,October,No,Outlet B
+2025-10-25,Dosa,Breakfast,55,70,3850,Saturday,October,No,Outlet A
+2025-10-25,Chicken Biryani,Rice,67,180,12060,Saturday,October,No,Outlet A
+2025-10-25,Veg Meals,Meals,47,120,5640,Saturday,October,No,Outlet A
+2025-10-25,Chapati Set,Meals,37,90,3330,Saturday,October,No,Outlet A
+2025-10-26,Noodles,Fast Food,36,120,4320,Sunday,October,No,Outlet C
+2025-10-26,Veg Biryani,Rice,54,140,7560,Sunday,October,No,Outlet B
+2025-10-26,Sandwich,Snacks,37,100,3700,Sunday,October,No,Outlet C
+2025-10-26,Chapati Set,Meals,53,90,4770,Sunday,October,No,Outlet C
+2025-10-26,Fresh Juice,Beverages,63,80,5040,Sunday,October,No,Outlet C
+2025-10-26,Veg Meals,Meals,57,120,6840,Sunday,October,Yes,Outlet A
+2025-10-26,Tea,Beverages,83,20,1660,Sunday,October,Yes,Outlet B
+2025-10-27,Fried Rice,Rice,42,130,5460,Monday,October,No,Outlet C
+2025-10-27,Coffee,Beverages,57,30,1710,Monday,October,No,Outlet A
+2025-10-27,Dosa,Breakfast,51,70,3570,Monday,October,No,Outlet A
+2025-10-27,Noodles,Fast Food,38,120,4560,Monday,October,Yes,Outlet B
+2025-10-28,Tea,Beverages,58,20,1160,Tuesday,October,No,Outlet A
+2025-10-28,Fried Rice,Rice,43,130,5590,Tuesday,October,No,Outlet A
+2025-10-28,Dosa,Breakfast,43,70,3010,Tuesday,October,No,Outlet B
+2025-10-28,Noodles,Fast Food,27,120,3240,Tuesday,October,No,Outlet B
+2025-10-29,Noodles,Fast Food,35,120,4200,Wednesday,October,No,Outlet B
+2025-10-29,Tea,Beverages,77,20,1540,Wednesday,October,Yes,Outlet B
+2025-10-29,Chicken Biryani,Rice,44,180,7920,Wednesday,October,No,Outlet C
+2025-10-29,Dosa,Breakfast,37,70,2590,Wednesday,October,No,Outlet B
+2025-10-29,Sandwich,Snacks,33,100,3300,Wednesday,October,No,Outlet B
+2025-10-29,Chapati Set,Meals,60,90,5400,Wednesday,October,Yes,Outlet B
+2025-10-30,Veg Meals,Meals,48,120,5760,Thursday,October,Yes,Outlet C
+2025-10-30,Fried Rice,Rice,38,130,4940,Thursday,October,No,Outlet A
+2025-10-30,Idli,Breakfast,40,50,2000,Thursday,October,No,Outlet B
+2025-10-30,Fresh Juice,Beverages,80,80,6400,Thursday,October,Yes,Outlet C
+2025-10-31,Noodles,Fast Food,33,120,3960,Friday,October,Yes,Outlet C
+2025-10-31,Tea,Beverages,54,20,1080,Friday,October,No,Outlet C
+2025-10-31,Sandwich,Snacks,25,100,2500,Friday,October,No,Outlet A
+2025-10-31,Dosa,Breakfast,49,70,3430,Friday,October,No,Outlet A
+2025-10-31,Veg Meals,Meals,55,120,6600,Friday,October,Yes,Outlet B
+2025-10-31,Fried Rice,Rice,36,130,4680,Friday,October,No,Outlet C
+2025-11-01,Coffee,Beverages,80,30,2400,Saturday,November,No,Outlet A
+2025-11-01,Noodles,Fast Food,40,120,4800,Saturday,November,No,Outlet A
+2025-11-01,Sandwich,Snacks,27,100,2700,Saturday,November,No,Outlet A
+2025-11-01,Fried Rice,Rice,67,130,8710,Saturday,November,Yes,Outlet C
+2025-11-01,Idli,Breakfast,55,50,2750,Saturday,November,Yes,Outlet B
+2025-11-01,Chapati Set,Meals,49,90,4410,Saturday,November,No,Outlet B
+2025-11-02,Idli,Breakfast,60,50,3000,Sunday,November,No,Outlet A
+2025-11-02,Sandwich,Snacks,35,100,3500,Sunday,November,No,Outlet A
+2025-11-02,Tea,Beverages,77,20,1540,Sunday,November,No,Outlet C
+2025-11-02,Chicken Biryani,Rice,48,180,8640,Sunday,November,No,Outlet C
+2025-11-03,Chicken Biryani,Rice,51,180,9180,Monday,November,Yes,Outlet B
+2025-11-03,Tea,Beverages,67,20,1340,Monday,November,No,Outlet A
+2025-11-03,Coffee,Beverages,57,30,1710,Monday,November,Yes,Outlet A
+2025-11-03,Chapati Set,Meals,45,90,4050,Monday,November,No,Outlet C
+2025-11-03,Veg Biryani,Rice,54,140,7560,Monday,November,No,Outlet C
+2025-11-03,Veg Meals,Meals,43,120,5160,Monday,November,No,Outlet C
+2025-11-04,Fried Rice,Rice,56,130,7280,Tuesday,November,No,Outlet B
+2025-11-04,Noodles,Fast Food,33,120,3960,Tuesday,November,No,Outlet A
+2025-11-04,Chicken Biryani,Rice,55,180,9900,Tuesday,November,No,Outlet C
+2025-11-04,Coffee,Beverages,68,30,2040,Tuesday,November,No,Outlet A
+2025-11-05,Veg Meals,Meals,32,120,3840,Wednesday,November,No,Outlet A
+2025-11-05,Chicken Biryani,Rice,44,180,7920,Wednesday,November,No,Outlet A
+2025-11-05,Dosa,Breakfast,64,70,4480,Wednesday,November,Yes,Outlet B
+2025-11-05,Veg Biryani,Rice,46,140,6440,Wednesday,November,Yes,Outlet C
+2025-11-05,Tea,Beverages,43,20,860,Wednesday,November,No,Outlet A
+2025-11-05,Chapati Set,Meals,30,90,2700,Wednesday,November,No,Outlet B
+2025-11-06,Chicken Biryani,Rice,39,180,7020,Thursday,November,No,Outlet C
+2025-11-06,Sandwich,Snacks,22,100,2200,Thursday,November,No,Outlet C
+2025-11-06,Coffee,Beverages,67,30,2010,Thursday,November,No,Outlet B
+2025-11-06,Dosa,Breakfast,53,70,3710,Thursday,November,No,Outlet C
+2025-11-07,Tea,Beverages,61,20,1220,Friday,November,No,Outlet B
+2025-11-07,Coffee,Beverages,77,30,2310,Friday,November,Yes,Outlet A
+2025-11-07,Chicken Biryani,Rice,37,180,6660,Friday,November,No,Outlet A
+2025-11-07,Fresh Juice,Beverages,65,80,5200,Friday,November,No,Outlet B
+2025-11-07,Veg Meals,Meals,41,120,4920,Friday,November,No,Outlet B
+2025-11-08,Veg Biryani,Rice,47,140,6580,Saturday,November,No,Outlet A
+2025-11-08,Chapati Set,Meals,42,90,3780,Saturday,November,No,Outlet B
+2025-11-08,Fried Rice,Rice,55,130,7150,Saturday,November,Yes,Outlet B
+2025-11-08,Coffee,Beverages,67,30,2010,Saturday,November,No,Outlet A
+2025-11-09,Chapati Set,Meals,48,90,4320,Sunday,November,No,Outlet B
+2025-11-09,Noodles,Fast Food,41,120,4920,Sunday,November,No,Outlet A
+2025-11-09,Chicken Biryani,Rice,49,180,8820,Sunday,November,No,Outlet B
+2025-11-09,Fried Rice,Rice,43,130,5590,Sunday,November,No,Outlet B
+2025-11-10,Veg Biryani,Rice,50,140,7000,Monday,November,No,Outlet A
+2025-11-10,Veg Meals,Meals,46,120,5520,Monday,November,Yes,Outlet C
+2025-11-10,Noodles,Fast Food,34,120,4080,Monday,November,No,Outlet A
+2025-11-10,Chicken Biryani,Rice,71,180,12780,Monday,November,Yes,Outlet B
+2025-11-10,Fried Rice,Rice,54,130,7020,Monday,November,No,Outlet B
+2025-11-10,Dosa,Breakfast,66,70,4620,Monday,November,Yes,Outlet C
+2025-11-11,Idli,Breakfast,55,50,2750,Tuesday,November,No,Outlet B
+2025-11-11,Coffee,Beverages,45,30,1350,Tuesday,November,No,Outlet B
+2025-11-11,Fresh Juice,Beverages,60,80,4800,Tuesday,November,Yes,Outlet B
+2025-11-11,Sandwich,Snacks,34,100,3400,Tuesday,November,No,Outlet A
+2025-11-11,Fried Rice,Rice,45,130,5850,Tuesday,November,Yes,Outlet A
+2025-11-11,Veg Biryani,Rice,35,140,4900,Tuesday,November,No,Outlet A
+2025-11-11,Dosa,Breakfast,49,70,3430,Tuesday,November,No,Outlet A
+2025-11-12,Coffee,Beverages,49,30,1470,Wednesday,November,No,Outlet B
+2025-11-12,Sandwich,Snacks,25,100,2500,Wednesday,November,No,Outlet B
+2025-11-12,Chicken Biryani,Rice,47,180,8460,Wednesday,November,No,Outlet A
+2025-11-12,Fresh Juice,Beverages,42,80,3360,Wednesday,November,No,Outlet B
+2025-11-12,Noodles,Fast Food,24,120,2880,Wednesday,November,No,Outlet B
+2025-11-12,Fried Rice,Rice,43,130,5590,Wednesday,November,No,Outlet B
+2025-11-13,Veg Meals,Meals,33,120,3960,Thursday,November,No,Outlet B
+2025-11-13,Veg Biryani,Rice,64,140,8960,Thursday,November,Yes,Outlet B
+2025-11-13,Tea,Beverages,57,20,1140,Thursday,November,No,Outlet B
+2025-11-13,Idli,Breakfast,49,50,2450,Thursday,November,No,Outlet C
+2025-11-14,Noodles,Fast Food,37,120,4440,Friday,November,No,Outlet C
+2025-11-14,Tea,Beverages,62,20,1240,Friday,November,No,Outlet B
+2025-11-14,Veg Biryani,Rice,35,140,4900,Friday,November,No,Outlet A
+2025-11-14,Fresh Juice,Beverages,64,80,5120,Friday,November,Yes,Outlet C
+2025-11-14,Veg Meals,Meals,44,120,5280,Friday,November,No,Outlet C
+2025-11-14,Dosa,Breakfast,36,70,2520,Friday,November,No,Outlet B
+2025-11-14,Coffee,Beverages,53,30,1590,Friday,November,No,Outlet A
+2025-11-15,Dosa,Breakfast,43,70,3010,Saturday,November,No,Outlet A
+2025-11-15,Sandwich,Snacks,38,100,3800,Saturday,November,Yes,Outlet B
+2025-11-15,Idli,Breakfast,51,50,2550,Saturday,November,No,Outlet C
+2025-11-15,Chicken Biryani,Rice,48,180,8640,Saturday,November,No,Outlet C
+2025-11-15,Tea,Beverages,49,20,980,Saturday,November,No,Outlet B
+2025-11-16,Coffee,Beverages,60,30,1800,Sunday,November,No,Outlet C
+2025-11-16,Fried Rice,Rice,59,130,7670,Sunday,November,No,Outlet A
+2025-11-16,Chapati Set,Meals,43,90,3870,Sunday,November,No,Outlet B
+2025-11-16,Chicken Biryani,Rice,58,180,10440,Sunday,November,No,Outlet A
+2025-11-16,Noodles,Fast Food,36,120,4320,Sunday,November,No,Outlet B
+2025-11-16,Veg Meals,Meals,41,120,4920,Sunday,November,No,Outlet C
+2025-11-16,Sandwich,Snacks,29,100,2900,Sunday,November,No,Outlet C
+2025-11-17,Sandwich,Snacks,29,100,2900,Monday,November,No,Outlet C
+2025-11-17,Coffee,Beverages,47,30,1410,Monday,November,No,Outlet A
+2025-11-17,Chicken Biryani,Rice,41,180,7380,Monday,November,No,Outlet B
+2025-11-17,Chapati Set,Meals,40,90,3600,Monday,November,No,Outlet A
+2025-11-18,Fried Rice,Rice,35,130,4550,Tuesday,November,No,Outlet C
+2025-11-18,Idli,Breakfast,38,50,1900,Tuesday,November,No,Outlet B
+2025-11-18,Coffee,Beverages,68,30,2040,Tuesday,November,No,Outlet C
+2025-11-18,Tea,Beverages,49,20,980,Tuesday,November,No,Outlet C
+2025-11-18,Noodles,Fast Food,32,120,3840,Tuesday,November,No,Outlet B
+2025-11-18,Chapati Set,Meals,44,90,3960,Tuesday,November,No,Outlet A
+2025-11-18,Fresh Juice,Beverages,51,80,4080,Tuesday,November,No,Outlet A
+2025-11-19,Veg Biryani,Rice,54,140,7560,Wednesday,November,No,Outlet A
+2025-11-19,Fresh Juice,Beverages,65,80,5200,Wednesday,November,No,Outlet B
+2025-11-19,Idli,Breakfast,48,50,2400,Wednesday,November,No,Outlet B
+2025-11-19,Fried Rice,Rice,40,130,5200,Wednesday,November,No,Outlet A
+2025-11-19,Tea,Beverages,58,20,1160,Wednesday,November,Yes,Outlet A
+2025-11-20,Noodles,Fast Food,26,120,3120,Thursday,November,No,Outlet B
+2025-11-20,Sandwich,Snacks,31,100,3100,Thursday,November,Yes,Outlet B
+2025-11-20,Tea,Beverages,46,20,920,Thursday,November,No,Outlet A
+2025-11-20,Fried Rice,Rice,46,130,5980,Thursday,November,No,Outlet A
+2025-11-20,Coffee,Beverages,82,30,2460,Thursday,November,Yes,Outlet B
+2025-11-20,Chapati Set,Meals,46,90,4140,Thursday,November,No,Outlet B
+2025-11-21,Fresh Juice,Beverages,77,80,6160,Friday,November,Yes,Outlet A
+2025-11-21,Sandwich,Snacks,33,100,3300,Friday,November,No,Outlet C
+2025-11-21,Chicken Biryani,Rice,55,180,9900,Friday,November,No,Outlet A
+2025-11-21,Fried Rice,Rice,52,130,6760,Friday,November,No,Outlet B
+2025-11-21,Veg Biryani,Rice,48,140,6720,Friday,November,No,Outlet B
+2025-11-21,Coffee,Beverages,62,30,1860,Friday,November,No,Outlet B
+2025-11-22,Veg Biryani,Rice,48,140,6720,Saturday,November,No,Outlet C
+2025-11-22,Chicken Biryani,Rice,69,180,12420,Saturday,November,Yes,Outlet C
+2025-11-22,Sandwich,Snacks,30,100,3000,Saturday,November,No,Outlet B
+2025-11-22,Dosa,Breakfast,46,70,3220,Saturday,November,No,Outlet B
+2025-11-22,Idli,Breakfast,65,50,3250,Saturday,November,No,Outlet B
+2025-11-23,Sandwich,Snacks,40,100,4000,Sunday,November,No,Outlet C
+2025-11-23,Chapati Set,Meals,50,90,4500,Sunday,November,No,Outlet B
+2025-11-23,Idli,Breakfast,48,50,2400,Sunday,November,No,Outlet C
+2025-11-23,Veg Meals,Meals,53,120,6360,Sunday,November,No,Outlet A
+2025-11-23,Tea,Beverages,56,20,1120,Sunday,November,No,Outlet B
+2025-11-23,Fried Rice,Rice,65,130,8450,Sunday,November,No,Outlet B
+2025-11-23,Fresh Juice,Beverages,78,80,6240,Sunday,November,No,Outlet B
+2025-11-24,Dosa,Breakfast,48,70,3360,Monday,November,No,Outlet C
+2025-11-24,Idli,Breakfast,35,50,1750,Monday,November,No,Outlet A
+2025-11-24,Sandwich,Snacks,34,100,3400,Monday,November,No,Outlet B
+2025-11-24,Veg Biryani,Rice,56,140,7840,Monday,November,No,Outlet B
+2025-11-25,Chicken Biryani,Rice,53,180,9540,Tuesday,November,No,Outlet C
+2025-11-25,Veg Biryani,Rice,50,140,7000,Tuesday,November,No,Outlet A
+2025-11-25,Idli,Breakfast,38,50,1900,Tuesday,November,No,Outlet B
+2025-11-25,Tea,Beverages,45,20,900,Tuesday,November,No,Outlet B
+2025-11-25,Sandwich,Snacks,25,100,2500,Tuesday,November,No,Outlet C
+2025-11-25,Fresh Juice,Beverages,57,80,4560,Tuesday,November,Yes,Outlet C
+2025-11-25,Dosa,Breakfast,51,70,3570,Tuesday,November,No,Outlet C
+2025-11-26,Coffee,Beverages,61,30,1830,Wednesday,November,No,Outlet B
+2025-11-26,Fresh Juice,Beverages,72,80,5760,Wednesday,November,Yes,Outlet B
+2025-11-26,Fried Rice,Rice,39,130,5070,Wednesday,November,No,Outlet B
+2025-11-26,Chapati Set,Meals,37,90,3330,Wednesday,November,No,Outlet B
+2025-11-26,Noodles,Fast Food,36,120,4320,Wednesday,November,No,Outlet A
+2025-11-27,Veg Meals,Meals,48,120,5760,Thursday,November,No,Outlet A
+2025-11-27,Tea,Beverages,65,20,1300,Thursday,November,No,Outlet A
+2025-11-27,Coffee,Beverages,53,30,1590,Thursday,November,No,Outlet B
+2025-11-27,Dosa,Breakfast,69,70,4830,Thursday,November,Yes,Outlet A
+2025-11-28,Veg Meals,Meals,39,120,4680,Friday,November,No,Outlet A
+2025-11-28,Tea,Beverages,46,20,920,Friday,November,No,Outlet B
+2025-11-28,Fried Rice,Rice,46,130,5980,Friday,November,No,Outlet A
+2025-11-28,Noodles,Fast Food,26,120,3120,Friday,November,No,Outlet A
+2025-11-29,Sandwich,Snacks,25,100,2500,Saturday,November,No,Outlet B
+2025-11-29,Fresh Juice,Beverages,63,80,5040,Saturday,November,No,Outlet A
+2025-11-29,Dosa,Breakfast,58,70,4060,Saturday,November,No,Outlet B
+2025-11-29,Fried Rice,Rice,67,130,8710,Saturday,November,Yes,Outlet B
+2025-11-29,Veg Biryani,Rice,51,140,7140,Saturday,November,No,Outlet A
+2025-11-29,Coffee,Beverages,72,30,2160,Saturday,November,No,Outlet C
+2025-11-30,Chicken Biryani,Rice,53,180,9540,Sunday,November,No,Outlet B
+2025-11-30,Sandwich,Snacks,40,100,4000,Sunday,November,No,Outlet C
+2025-11-30,Tea,Beverages,75,20,1500,Sunday,November,No,Outlet A
+2025-11-30,Veg Meals,Meals,49,120,5880,Sunday,November,No,Outlet B
+2025-11-30,Coffee,Beverages,70,30,2100,Sunday,November,No,Outlet A
+2025-11-30,Veg Biryani,Rice,56,140,7840,Sunday,November,No,Outlet C
+2025-12-01,Idli,Breakfast,37,50,1850,Monday,December,No,Outlet B
+2025-12-01,Veg Biryani,Rice,44,140,6160,Monday,December,No,Outlet B
+2025-12-01,Tea,Beverages,53,20,1060,Monday,December,Yes,Outlet A
+2025-12-01,Noodles,Fast Food,37,120,4440,Monday,December,No,Outlet B
+2025-12-01,Chapati Set,Meals,47,90,4230,Monday,December,No,Outlet B
+2025-12-02,Coffee,Beverages,69,30,2070,Tuesday,December,No,Outlet A
+2025-12-02,Idli,Breakfast,55,50,2750,Tuesday,December,No,Outlet C
+2025-12-02,Tea,Beverages,43,20,860,Tuesday,December,No,Outlet A
+2025-12-02,Chapati Set,Meals,41,90,3690,Tuesday,December,Yes,Outlet B
+2025-12-02,Fried Rice,Rice,51,130,6630,Tuesday,December,No,Outlet B
+2025-12-02,Chicken Biryani,Rice,69,180,12420,Tuesday,December,Yes,Outlet B
+2025-12-03,Noodles,Fast Food,24,120,2880,Wednesday,December,No,Outlet C
+2025-12-03,Chapati Set,Meals,32,90,2880,Wednesday,December,No,Outlet A
+2025-12-03,Tea,Beverages,49,20,980,Wednesday,December,No,Outlet A
+2025-12-03,Sandwich,Snacks,33,100,3300,Wednesday,December,No,Outlet C
+2025-12-04,Coffee,Beverages,48,30,1440,Thursday,December,No,Outlet B
+2025-12-04,Veg Meals,Meals,47,120,5640,Thursday,December,No,Outlet A
+2025-12-04,Tea,Beverages,68,20,1360,Thursday,December,No,Outlet A
+2025-12-04,Veg Biryani,Rice,48,140,6720,Thursday,December,No,Outlet A
+2025-12-04,Fried Rice,Rice,38,130,4940,Thursday,December,No,Outlet A
+2025-12-05,Sandwich,Snacks,43,100,4300,Friday,December,Yes,Outlet C
+2025-12-05,Fresh Juice,Beverages,54,80,4320,Friday,December,No,Outlet C
+2025-12-05,Noodles,Fast Food,36,120,4320,Friday,December,No,Outlet C
+2025-12-05,Coffee,Beverages,81,30,2430,Friday,December,Yes,Outlet C
+2025-12-05,Idli,Breakfast,52,50,2600,Friday,December,No,Outlet C
+2025-12-05,Tea,Beverages,84,20,1680,Friday,December,Yes,Outlet B
+2025-12-05,Chapati Set,Meals,43,90,3870,Friday,December,Yes,Outlet A
+2025-12-06,Chicken Biryani,Rice,61,180,10980,Saturday,December,No,Outlet C
+2025-12-06,Veg Meals,Meals,52,120,6240,Saturday,December,Yes,Outlet B
+2025-12-06,Dosa,Breakfast,64,70,4480,Saturday,December,No,Outlet C
+2025-12-06,Veg Biryani,Rice,50,140,7000,Saturday,December,No,Outlet A
+2025-12-06,Fried Rice,Rice,55,130,7150,Saturday,December,No,Outlet B
+2025-12-06,Noodles,Fast Food,33,120,3960,Saturday,December,No,Outlet B
+2025-12-06,Coffee,Beverages,62,30,1860,Saturday,December,No,Outlet B
+2025-12-07,Coffee,Beverages,80,30,2400,Sunday,December,No,Outlet C
+2025-12-07,Veg Biryani,Rice,59,140,8260,Sunday,December,No,Outlet A
+2025-12-07,Fried Rice,Rice,55,130,7150,Sunday,December,No,Outlet C
+2025-12-07,Sandwich,Snacks,30,100,3000,Sunday,December,No,Outlet B
+2025-12-07,Chicken Biryani,Rice,78,180,14040,Sunday,December,Yes,Outlet B
+2025-12-07,Veg Meals,Meals,47,120,5640,Sunday,December,Yes,Outlet B
+2025-12-08,Tea,Beverages,55,20,1100,Monday,December,No,Outlet C
+2025-12-08,Fried Rice,Rice,37,130,4810,Monday,December,No,Outlet C
+2025-12-08,Idli,Breakfast,52,50,2600,Monday,December,No,Outlet B
+2025-12-08,Veg Meals,Meals,31,120,3720,Monday,December,No,Outlet C
+2025-12-08,Chicken Biryani,Rice,64,180,11520,Monday,December,Yes,Outlet B
+2025-12-09,Veg Biryani,Rice,41,140,5740,Tuesday,December,No,Outlet C
+2025-12-09,Fried Rice,Rice,52,130,6760,Tuesday,December,No,Outlet B
+2025-12-09,Veg Meals,Meals,35,120,4200,Tuesday,December,No,Outlet A
+2025-12-09,Chicken Biryani,Rice,36,180,6480,Tuesday,December,No,Outlet C
+2025-12-09,Fresh Juice,Beverages,60,80,4800,Tuesday,December,No,Outlet B
+2025-12-10,Veg Meals,Meals,48,120,5760,Wednesday,December,Yes,Outlet C
+2025-12-10,Fried Rice,Rice,50,130,6500,Wednesday,December,No,Outlet C
+2025-12-10,Chicken Biryani,Rice,46,180,8280,Wednesday,December,No,Outlet C
+2025-12-10,Sandwich,Snacks,30,100,3000,Wednesday,December,No,Outlet C
+2025-12-11,Idli,Breakfast,49,50,2450,Thursday,December,No,Outlet A
+2025-12-11,Chicken Biryani,Rice,39,180,7020,Thursday,December,No,Outlet C
+2025-12-11,Veg Biryani,Rice,50,140,7000,Thursday,December,Yes,Outlet C
+2025-12-11,Coffee,Beverages,56,30,1680,Thursday,December,No,Outlet A
+2025-12-11,Veg Meals,Meals,38,120,4560,Thursday,December,No,Outlet B
+2025-12-11,Fresh Juice,Beverages,44,80,3520,Thursday,December,No,Outlet A
+2025-12-11,Noodles,Fast Food,29,120,3480,Thursday,December,No,Outlet B
+2025-12-12,Veg Meals,Meals,37,120,4440,Friday,December,No,Outlet B
+2025-12-12,Noodles,Fast Food,40,120,4800,Friday,December,Yes,Outlet C
+2025-12-12,Coffee,Beverages,53,30,1590,Friday,December,No,Outlet B
+2025-12-12,Dosa,Breakfast,47,70,3290,Friday,December,No,Outlet C
+2025-12-12,Tea,Beverages,42,20,840,Friday,December,No,Outlet B
+2025-12-12,Veg Biryani,Rice,48,140,6720,Friday,December,No,Outlet C
+2025-12-12,Idli,Breakfast,54,50,2700,Friday,December,No,Outlet B
+2025-12-13,Sandwich,Snacks,34,100,3400,Saturday,December,No,Outlet B
+2025-12-13,Veg Meals,Meals,44,120,5280,Saturday,December,No,Outlet B
+2025-12-13,Tea,Beverages,86,20,1720,Saturday,December,Yes,Outlet C
+2025-12-13,Fresh Juice,Beverages,71,80,5680,Saturday,December,No,Outlet A
+2025-12-13,Fried Rice,Rice,76,130,9880,Saturday,December,Yes,Outlet B
+2025-12-14,Noodles,Fast Food,39,120,4680,Sunday,December,No,Outlet B
+2025-12-14,Dosa,Breakfast,60,70,4200,Sunday,December,Yes,Outlet C
+2025-12-14,Tea,Beverages,62,20,1240,Sunday,December,No,Outlet C
+2025-12-14,Fresh Juice,Beverages,60,80,4800,Sunday,December,No,Outlet B
+2025-12-14,Chapati Set,Meals,54,90,4860,Sunday,December,No,Outlet C
+2025-12-14,Idli,Breakfast,58,50,2900,Sunday,December,No,Outlet A
+2025-12-15,Veg Biryani,Rice,46,140,6440,Monday,December,No,Outlet A
+2025-12-15,Sandwich,Snacks,22,100,2200,Monday,December,No,Outlet A
+2025-12-15,Dosa,Breakfast,40,70,2800,Monday,December,No,Outlet C
+2025-12-15,Fresh Juice,Beverages,80,80,6400,Monday,December,Yes,Outlet C
+2025-12-15,Noodles,Fast Food,29,120,3480,Monday,December,Yes,Outlet B
+2025-12-15,Veg Meals,Meals,42,120,5040,Monday,December,Yes,Outlet C
+2025-12-15,Coffee,Beverages,48,30,1440,Monday,December,No,Outlet B
+2025-12-16,Veg Meals,Meals,60,120,7200,Tuesday,December,Yes,Outlet B
+2025-12-16,Tea,Beverages,62,20,1240,Tuesday,December,No,Outlet A
+2025-12-16,Idli,Breakfast,47,50,2350,Tuesday,December,No,Outlet A
+2025-12-16,Veg Biryani,Rice,35,140,4900,Tuesday,December,No,Outlet A
+2025-12-16,Chicken Biryani,Rice,47,180,8460,Tuesday,December,Yes,Outlet A
+2025-12-16,Chapati Set,Meals,32,90,2880,Tuesday,December,No,Outlet B
+2025-12-17,Tea,Beverages,59,20,1180,Wednesday,December,Yes,Outlet B
+2025-12-17,Noodles,Fast Food,23,120,2760,Wednesday,December,No,Outlet B
+2025-12-17,Chicken Biryani,Rice,46,180,8280,Wednesday,December,No,Outlet A
+2025-12-17,Veg Biryani,Rice,51,140,7140,Wednesday,December,No,Outlet B
+2025-12-17,Chapati Set,Meals,42,90,3780,Wednesday,December,No,Outlet A
+2025-12-17,Sandwich,Snacks,28,100,2800,Wednesday,December,No,Outlet A
+2025-12-17,Coffee,Beverages,66,30,1980,Wednesday,December,Yes,Outlet B
+2025-12-18,Tea,Beverages,55,20,1100,Thursday,December,No,Outlet A
+2025-12-18,Fresh Juice,Beverages,62,80,4960,Thursday,December,Yes,Outlet A
+2025-12-18,Chapati Set,Meals,37,90,3330,Thursday,December,No,Outlet A
+2025-12-18,Veg Meals,Meals,42,120,5040,Thursday,December,No,Outlet C
+2025-12-18,Noodles,Fast Food,40,120,4800,Thursday,December,Yes,Outlet C
+2025-12-18,Chicken Biryani,Rice,55,180,9900,Thursday,December,No,Outlet B
+2025-12-18,Sandwich,Snacks,33,100,3300,Thursday,December,No,Outlet C
+2025-12-19,Sandwich,Snacks,23,100,2300,Friday,December,No,Outlet B
+2025-12-19,Chapati Set,Meals,33,90,2970,Friday,December,No,Outlet C
+2025-12-19,Fresh Juice,Beverages,58,80,4640,Friday,December,No,Outlet B
+2025-12-19,Veg Meals,Meals,47,120,5640,Friday,December,No,Outlet C
+2025-12-19,Idli,Breakfast,38,50,1900,Friday,December,No,Outlet B
+2025-12-19,Noodles,Fast Food,38,120,4560,Friday,December,Yes,Outlet B
+2025-12-20,Tea,Beverages,59,20,1180,Saturday,December,No,Outlet B
+2025-12-20,Sandwich,Snacks,27,100,2700,Saturday,December,No,Outlet A
+2025-12-20,Idli,Breakfast,54,50,2700,Saturday,December,No,Outlet B
+2025-12-20,Dosa,Breakfast,60,70,4200,Saturday,December,No,Outlet C
+2025-12-20,Chicken Biryani,Rice,54,180,9720,Saturday,December,No,Outlet C
+2025-12-21,Chapati Set,Meals,65,90,5850,Sunday,December,Yes,Outlet A
+2025-12-21,Idli,Breakfast,55,50,2750,Sunday,December,No,Outlet A
+2025-12-21,Tea,Beverages,81,20,1620,Sunday,December,No,Outlet C
+2025-12-21,Sandwich,Snacks,34,100,3400,Sunday,December,No,Outlet C
+2025-12-22,Chapati Set,Meals,34,90,3060,Monday,December,No,Outlet B
+2025-12-22,Idli,Breakfast,38,50,1900,Monday,December,No,Outlet B
+2025-12-22,Fresh Juice,Beverages,45,80,3600,Monday,December,No,Outlet B
+2025-12-22,Veg Biryani,Rice,36,140,5040,Monday,December,No,Outlet A
+2025-12-22,Fried Rice,Rice,37,130,4810,Monday,December,No,Outlet A
+2025-12-23,Chicken Biryani,Rice,49,180,8820,Tuesday,December,No,Outlet B
+2025-12-23,Chapati Set,Meals,48,90,4320,Tuesday,December,No,Outlet C
+2025-12-23,Tea,Beverages,64,20,1280,Tuesday,December,No,Outlet A
+2025-12-23,Fried Rice,Rice,46,130,5980,Tuesday,December,No,Outlet B
+2025-12-23,Coffee,Beverages,76,30,2280,Tuesday,December,Yes,Outlet C
+2025-12-23,Noodles,Fast Food,32,120,3840,Tuesday,December,Yes,Outlet B
+2025-12-23,Veg Biryani,Rice,48,140,6720,Tuesday,December,Yes,Outlet C
+2025-12-24,Chicken Biryani,Rice,35,180,6300,Wednesday,December,No,Outlet A
+2025-12-24,Coffee,Beverages,62,30,1860,Wednesday,December,Yes,Outlet B
+2025-12-24,Fried Rice,Rice,46,130,5980,Wednesday,December,No,Outlet A
+2025-12-24,Sandwich,Snacks,37,100,3700,Wednesday,December,Yes,Outlet A
+2025-12-24,Tea,Beverages,50,20,1000,Wednesday,December,No,Outlet B
+2025-12-24,Veg Biryani,Rice,53,140,7420,Wednesday,December,No,Outlet B
+2025-12-25,Chicken Biryani,Rice,44,180,7920,Thursday,December,No,Outlet C
+2025-12-25,Tea,Beverages,54,20,1080,Thursday,December,No,Outlet B
+2025-12-25,Chapati Set,Meals,39,90,3510,Thursday,December,No,Outlet C
+2025-12-25,Sandwich,Snacks,23,100,2300,Thursday,December,No,Outlet A
+2025-12-26,Noodles,Fast Food,29,120,3480,Friday,December,No,Outlet A
+2025-12-26,Fresh Juice,Beverages,51,80,4080,Friday,December,No,Outlet A
+2025-12-26,Sandwich,Snacks,33,100,3300,Friday,December,No,Outlet C
+2025-12-26,Veg Biryani,Rice,37,140,5180,Friday,December,No,Outlet A
+2025-12-26,Chapati Set,Meals,41,90,3690,Friday,December,No,Outlet C
+2025-12-26,Veg Meals,Meals,42,120,5040,Friday,December,No,Outlet C
+2025-12-26,Idli,Breakfast,38,50,1900,Friday,December,No,Outlet C
+2025-12-27,Coffee,Beverages,49,30,1470,Saturday,December,No,Outlet C
+2025-12-27,Tea,Beverages,55,20,1100,Saturday,December,No,Outlet A
+2025-12-27,Dosa,Breakfast,45,70,3150,Saturday,December,No,Outlet C
+2025-12-27,Noodles,Fast Food,37,120,4440,Saturday,December,No,Outlet A
+2025-12-28,Fried Rice,Rice,52,130,6760,Sunday,December,No,Outlet C
+2025-12-28,Coffee,Beverages,57,30,1710,Sunday,December,No,Outlet A
+2025-12-28,Veg Meals,Meals,47,120,5640,Sunday,December,No,Outlet B
+2025-12-28,Noodles,Fast Food,39,120,4680,Sunday,December,Yes,Outlet A
+2025-12-28,Fresh Juice,Beverages,99,80,7920,Sunday,December,Yes,Outlet C
+2025-12-28,Veg Biryani,Rice,72,140,10080,Sunday,December,Yes,Outlet B
+2025-12-29,Veg Meals,Meals,37,120,4440,Monday,December,No,Outlet B
+2025-12-29,Sandwich,Snacks,34,100,3400,Monday,December,No,Outlet A
+2025-12-29,Idli,Breakfast,49,50,2450,Monday,December,Yes,Outlet C
+2025-12-29,Fried Rice,Rice,46,130,5980,Monday,December,No,Outlet C
+2025-12-29,Chicken Biryani,Rice,37,180,6660,Monday,December,No,Outlet A
+2025-12-30,Noodles,Fast Food,26,120,3120,Tuesday,December,No,Outlet A
+2025-12-30,Tea,Beverages,68,20,1360,Tuesday,December,No,Outlet C
+2025-12-30,Fried Rice,Rice,65,130,8450,Tuesday,December,Yes,Outlet C
+2025-12-30,Chicken Biryani,Rice,42,180,7560,Tuesday,December,No,Outlet B
+2025-12-30,Sandwich,Snacks,33,100,3300,Tuesday,December,No,Outlet C
+2025-12-30,Veg Meals,Meals,48,120,5760,Tuesday,December,No,Outlet B
+2025-12-31,Dosa,Breakfast,65,70,4550,Wednesday,December,Yes,Outlet C
+2025-12-31,Tea,Beverages,68,20,1360,Wednesday,December,No,Outlet A
+2025-12-31,Fried Rice,Rice,70,130,9100,Wednesday,December,Yes,Outlet B
+2025-12-31,Fresh Juice,Beverages,64,80,5120,Wednesday,December,No,Outlet B
+2025-12-31,Noodles,Fast Food,35,120,4200,Wednesday,December,No,Outlet A
